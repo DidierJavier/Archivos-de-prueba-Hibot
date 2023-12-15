@@ -1,0 +1,415 @@
+Inicio
+Aquí aprenderás todo para hacer un correcto inicio en Hibot
+¿Cómo desactivar las actualizaciones automáticas de WhatsApp?
+¿Cómo iniciar sesión en la App de HiBot?
+¿Cómo recuperar la contraseña de tu cuenta en la App HiBot?
+¿Cómo ingresar a Hibot?
+¿Cómo realizar la configuración del negocio en Meta?
+¿Cómo instalar la App HiBot?
+Gráficos
+¿Cómo usar el módulo de gráficos de Hibot?
+
+¿Cómo desactivar las actualizaciones automáticas de WhatsApp?
+Aquí te enseñaremos paso a paso cómo desactivar las actualizaciones automáticas tanto para WhatsApp Business como para WhatsApp versión tradicional.
+Paso a paso cómo desactivar las actualizaciones automáticas de WhatsApp para dispositivos Android
+Si tu celular es sistema operativo Android, ingresa a la App “Play Store”. 
+En el buscador escribe WhatsApp Business o WhatsApp, dependiendo del que estés usando, haz click en buscar.
+Toca el ícono de WhatsApp y se abrirá una pantalla. Ahí haz click en los tres puntos que aparecen en la esquina superior derecha de la pantalla. 
+Desmarca la opción “Actualizar autom”. ¡Listo!
+Paso a paso cómo desactivar las actualizaciones automáticas de WhatsApp para dispositivos iOS
+Si tu celular es sistema operativo iOS, ingresa a "Ajustes".
+ Digita en el buscador “App Store”. Toca el ícono. 
+A continuación, desactiva la opción “Actualizaciones de Apps”. ¡Listo!
+
+¿Cómo iniciar sesión en la App de HiBot?
+Atiende a tus clientes desde cualquier lugar y en cualquier momento, aquí te mostramos cómo iniciar sesión en la App de HiBot
+Paso a paso cómo iniciar sesión en la App de HiBot
+Si ya decidiste mejorar la atención a tus usuarios y clientes, con HiBot puedes hacerlo desde la palma de tu mano, aquí te contamos cómo iniciar sesión en la App HiBot. Es muy fácil (Recuerda que debes tener una licencia de HiBot):
+https://youtu.be/8zDhBTtjpSs
+1. Instala la App en tu dispositivo móvil. Aquí, cómo instalar la App HiBot.
+2. Abre la App HiBot en tu celular. 
+3. Donde dice Email, ingresa el correo electrónico con el que estás registrado en la plataforma. Y en Contraseña, escribes la contraseña con la que te registraste en HiBot. Si olvidaste tu contraseña, puedes recuperarla fácilmente tocando el botón que dice Recuperar Contraseña y sigue los pasos. (Aquí más ayuda sobre cómo recuperar tu contraseña).
+Toca el botón INGRESAR.
+¡Ya estarás dentro de la App HiBot!
+
+Después de saber cómo iniciar sesión en la App de HiBot, podrás hacer uso completo de la aplicación mobile, lo que te permitirá atender a tus clientes y usuarios desde cualquier lugar del mundo y a cualquier hora, desde la palma de tu mano y en movimiento. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación.
+https://youtu.be/_mRl5LiLtAk
+
+¿Cómo recuperar la contraseña de tu cuenta en la App HiBot?
+Atiende a tus clientes en cualquier lugar y en cualquier momento, aquí cómo recuperar la contraseña de tu cuenta de Hibot.
+Paso a paso cómo recuperar la contraseña de tu cuenta de Hibot
+Si ya decidiste mejorar la atención a tus usuarios y clientes, con Hibot puedes hacerlo desde la palma de tu mano, aquí te contamos cómo recuperar la contraseña de tu cuenta Hibot desde una computador o desde tu celular. Es muy fácil (Recuerda que debes tener una licencia de Hibot).
+
+1. Abre la App Hibot en tu celular o en el computador. 
+2. Donde dice Email, ingresa el correo electrónico con el que estás registrado en la plataforma. Verás que en el siguiente campo te solicitan la contraseña. En este caso, vas a tocar el botón que dice "Recuperar Contraseña" en la parte inferior.
+3. Te llevará a una página que te solicitará que confirmes el correo electrónico que tienes asociado con la cuenta de Hibot. 
+4. Escribe el correo y toca el botón "Loing" y en el computador clic en "Enviar".
+5. Te llegará un correo electrónico a esa dirección de mail que colocaste con los pasos para cambiar la contraseña.
+6. Ya podrás ingresar con tu usuario y la nueva contraseña
+
+Nota: Si por alguna razón el correo electrónico registrado en la plataforma no es válido, comunícate con el administrador de la cuenta de Hibot en tu empresa para que te ayuden a generar el cambio interno a través del módulo de Usuarios.
+
+Cuando sepas cómo recuperar la contraseña de tu cuenta en la App Hibot, podrás hacer uso completo de la herramienta, lo que te permitirá atender a tus clientes y usuarios desde cualquier lugar del mundo y a cualquier hora, desde la palma de tu mano y en movimiento. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación.
+
+¿Cómo ingresar a Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo ingresar a Hibot.
+HiBot es una herramienta que te permite tener a todos tus asesores respondiendo chats desde una única cuenta de WhatsApp desde diferentes computadores o dispositivos. Adicionalmente, puedes tener todas las conversaciones de tus redes sociales (Facebook, Instagram, Telegram, Mercado Libre, Chat Web y más), en una sola plataforma y automatizar con chatbots para optimizar tu gestión y brindar un mejor servicio. Aquí te cuento cómo ingresar a Hibot. 
+
+Paso a paso cómo ingresar a Hibot
+Nota: Primero recuerda que para aprender cómo ingresar a Hibot, debes tener una licencia activa en la plataforma y verifica tu conexión de red para evitar cualquier interrupción en el proceso de ingreso.
+
+1. En el buscador ingresa a app.hibot.us o haz clic aquí: Hibot. (Recomendamos usar Google Chrome)
+https://help.hibotchat.com/hs-fs/hubfs/undefined.png?width=602&height=247&name=undefined.png
+Ingreso desde la página Web
+
+2. Llena los campos con Usuario (Es tu correo electrónico) y contraseña y haz clic en “Ingresar” y listo, ya tendrás a disposición la herramienta para mejorar tu atención al cliente.
+https://help.hibotchat.com/hs-fs/hubfs/undefined-1.png?width=602&height=239&name=undefined-1.png
+
+Nota importante: Si tienes algún problema al ingresar a la plataforma, no te preocupes, te ofrecemos algunas soluciones que podrían ayudarte. En primer lugar, intenta borrar la caché de tu computadora. Si esto no funciona, comunícate con el administrador de Hibot en tu empresa para validar tus permisos y licencias. Y si olvidaste tu contraseña, no te preocupes, tenemos un artículo que te muestra cómo recuperarla aquí.
+
+Por último, si aún tienes dificultades para ingresar, comunícate con nuestro equipo de atención al cliente a través de wa.me/573154321004. Estaremos encantados de ayudarte. ¡Bienvenido a Hibot!
+
+¿Cómo realizar la configuración del negocio en Meta?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo realizar la configuración del negocio en Meta.
+El primer paso para utilizar WhatsApp API Cloud es realizar en Meta la "Verificación de tu negocio" en Business Manager. Lo anterior lo solicita Meta con el fin de reconocer tu negocio como una empresa legal y funciona como una prueba de asociación con tu negocio para certificar que eres un representante autorizado del producto que vas a usar. 
+
+1. Paso a paso cómo verificar tu negocio en Business Manager
+1. Ingresa a: https://www.facebook.com/business/help/2058515294227817?id=180505742745347 Sigue paso a paso las indicaciones de Meta para hacer la verificación de tu negocio. 
+
+Una vez tu empresa esté en estado "Verificado" puedes proceder a realizar la configuración de tu cuenta para usar WhatsApp API Cloud.
+
+El siguiente paso es crear el App. Abajo te explicamos paso a paso cómo realizarlo. 
+
+2. Paso a paso cómo crear el App
+Aquí te dejo un video tutorial y abajo también tienes el paso a paso: 
+https://youtu.be/hC-EfLMVNIU
+
+1. Ingresa en tu navegador a business.facebook.com (Para poder iniciar sesión, previamente debes crear una cuenta en Facebook Business). Si ya tienes una cuenta creada, haz clic en el botón "Iniciar sesión". 
+https://help.hibotchat.com/hs-fs/hubfs/Captura%20facebook%20business.png?width=688&name=Captura%20facebook%20business.png
+
+2. Haz clic en la parte inferior izquierda de la pantalla, sobre el botón de "Configuración".
+https://help.hibotchat.com/hs-fs/hubfs/meta%20configuraci%C3%B3n%201.png?width=688&name=meta%20configuraci%C3%B3n%201.png
+
+3. En el menú lateral izquierdo haz clic en "Información de la cuenta comercial".
+
+4. En la nueva pantalla que se abrirá haz clic en "Ir a la configuración del negocio".
+
+5. Se abrirá una nueva pantalla, en el menú lateral izquierdo haz clic en "Cuentas" y cuando se despliegue la sección, haz clic en "Apps".
+
+6. En la pantalla que aparecerá haz clic en el botón "Agregar". Selecciona la opción "Crear un nuevo identificador de la App".
+
+7. Ahora nos pedirá el tipo de App que estamos creando, en las opciones que aparecerán en frente, elige "Negocios" y haz clic en "Siguiente".
+https://help.hibotchat.com/hs-fs/hubfs/Api%20cloud%203.png?width=688&name=Api%20cloud%203.png
+
+7. Ahora debes incluir la información básica de tu negocio en "Detalles".
+
+Nota: En el primer campo de "Nombre para mostrar" debes elegir un nombre que NO contenga palabras relacionadas con Meta o con alguno de sus productos (Facebook, Instagram, WhatsApp...). Ese nombre es el que identificará Facebook como nombre de tu negocio. 
+
+8. Te pedirá también "Correo electrónico", usa el correo de la empresa.
+
+9. También deberás seleccionar la "Cuenta comercial" (Si no has creado una, Facebook la proveerá por defecto).
+
+10. Haz clic en "Crear app". 
+https://help.hibotchat.com/hs-fs/hubfs/Api%20cloud%204.png?width=688&name=Api%20cloud%204.png
+
+11. Te pedirá la contraseña. Escríbela y haz clic en enviar. 
+
+12. Se abrirá una nueva ventana con diferentes logos de productos de Meta. Selecciona "WhatsApp" y haz clic en "Configurar".
+https://help.hibotchat.com/hs-fs/hubfs/Api%20cloud%205.png?width=688&name=Api%20cloud%205.png
+
+12. Se abrirá una nueva pantalla donde verás un recuadro que tiene la información de la cuenta que estamos configurando. Haz clic en "Continuar". 
+
+13. Veremos una sección que nos solicita varios datos. Para esto nos devolvemos haciendo clic en el la flecha para regresar a la página anterior de nuestro navegador. Volvemos hasta la parte de "Configuración del negocio". Haz clic en "Usuarios" y después en "Usuarios del sistema".
+
+14. Aparecerá una nueva sección, haz clic en el botón "Agregar". Aparecerá una ventana con las políticas de uso y privacidad de Meta. Después de leerlas y estar de acuerdo con ellas haz clic en "Acepto".
+
+15. Aparecerá una venta para la creación del usuario. Llena el campo de nombre y selecciona el rol del usuario. (Este rol debería ser "Empleado" porque el administrador es el que tiene la cuenta de Meta). Haz clic en "Crear usuario del sistema".
+
+16. Veremos nuevamente una ventana para aceptar las políticas de uso de datos. Léelas y una vez las aceptes, haz clic en "Aceptar". Ya quedó creado el usuario en el sistema. 
+
+Ahora vamos a vincular la App creada anteriormente a este usuario que acabamos de crear. 
+
+17. En la misma pantalla de usuarios del sistema. Haz clic en el botón "Agregar activos".
+
+18. se abrirá una nueva ventana y en el menú izquierdo de esa ventana, haz clic en "Apps" y selecciona la App que creaste previamente. 
+
+19. Una vez seleccionada, justo en frente verás permisos de esa App. En el permiso "Control total" activa el el botón para que le asignes el control total a este usuario. Haz clic en "Guardar cambios" y en la siguiente ventana emergente haces clic en "Listo". Ya habrá quedado creada la App y asignada al usuario de sistema que creaste.
+
+3. Paso a paso cómo configurar tu línea de WhatsApp con API Cloud 
+Aquí te dejo un video tutorial y abajo también tienes el paso a paso: 
+https://youtu.be/2t_yVu-UvLI
+
+1. Habiendo ingresado previamente con tu usuario y contraseña en business.facebook.com dirígete a la parte inferior izquierda de la pantalla, sobre el botón de "Configuración".
+2. En el menú lateral izquierdo haz clic en "Información de la cuenta comercial".
+3. En la nueva pantalla que se abrirá haz clic en "Ir a la configuración del negocio".
+4. Haz clic en el menú lateral izquierdo en "Apps". Selecciona la App creada previamente.
+https://help.hibotchat.com/hubfs/image-png-Aug-29-2022-03-33-59-62-PM.png
+
+5. Haz clic en el botón ubicado en la esquina superior derecha de la pantalla que dice "Abrir en el panel de apps".
+6. Se abrirá una nueva ventana . Haz clic en el menú lateral izquierdo de la pantalla donde dice "Webhooks". Se abrirá una nueva pantalla donde vas a configurar el Webhook por el cuál se comunicará la línea de WhatsApp con la plataforma. 
+7. Haz clic en el botón que dice "User", se desplegará una lista, selecciona "WhatsApp Business Account". Una vez lo hayas seleccionado, haz clic en "Subscribe to this objet"
+8. Aparecerá una ventana emergente, llena los campos: 
+- En el primer campo que se llama URL de devolución de llamada, adiciona la siguiente URL https://pdn.api.hibot.us/api_channels/whatsapp 
+- En el segundo campo adiciona una secuencia de números y letras que desees.
+9. Haz clic en "Verificar y guardar"
+10. Aparecerá una nueva ventana donde vas a hacer clic en "Suscribirse" en los siguientes nombres: 
+- message_template-status_update
+- messages
+11. Una vez hayas hecho esto, dirígete a el menú lateral izquierdo de la pantalla y haz clic en WhatsApp. Se desplegará una lista, haz clic en "Primeros pasos". 
+12. Aparecerá una nueva pantalla. Haz scroll o dirígete a la parte inferior de la pantalla y en el  "Paso 5: Agregar un número de teléfono", haz clic en el botón "Agregar número de teléfono"
+13. Aparecerá una ventana emergente. Diligencia los campos: en el primero coloca el nombre de la línea de WhatsApp que quieres adicionar (El nombre de tu negocio). Luego adiciona en el segundo campo un correo electrónico donde tu cliente puede enviar información (El correo electrónico de atención de tu negocio). En el tercer campo selecciona el país donde opera la línea. Y por último selecciona en el último campo el sitio web de tu negocio. Haz clic en "Agregar número".
+14. Verás otra ventana emergente. Termina de llenar los campos solicitados. En el primer campo adiciona el nombre que quieres que aparezca en tu WhatsApp Business. En el segundo la zona horaria de la línea que estás adicionando, en la cuál atenderás a tus clientes. En el tercer campo selecciona la categoría a la que pertenece tu negocio.  En el cuarto campo de forma opcional puedes colocar una descripción de tu negocio. Por último haz clic en siguiente. 
+15. En la siguiente ventana, agrega el número de la línea que quieres certificar, seleccionando primero el indicativo de tu país y luego escribe el número de esa línea en el campo de enfrente. 
+16. En este punto, antes de dar clic en siguiente. Dirígete a tu teléfono celular - Ingresa a la aplicación WhatsApp - Haz clic en configuraciones - Luego haz clic en eliminar la cuenta. Una vez esté eliminada regresa a la configuración que hemos estado haciendo y ahora verificaremos la cuenta. Donde dice "Elige cómo quieres verificar tu número" selecciona si quieres que sea por un mensaje de texto o por una llamada telefónica. Una vez lo selecciones haz clic en "Siguiente".
+17. Meta te enviará un mensaje o te llamará, allí te dará un código de 6 dígitos. Escríbelo en las casillas de verificación y haz clic en "Siguiente". Una vez cumplamos con este paso, Meta entrará en un periodo de verificación de tu nombre para la línea.
+Una vez tu cuenta haya sido aprobada por Meta puedes continuar con la configuración. A continuación debes crear dos "Token" adicionales, estos deberán ser suministrados al equipo de Hibot para terminar la configuración con la plataforma. 
+
+4. Cómo crear los dos "Token" para finalizar la configuración con Hibot
+Aquí te dejo un video tutorial y abajo también tienes el paso a paso: 
+https://youtu.be/J3p7TQCLJYM
+
+1. Habiendo ingresado previamente con tu usuario y contraseña en business.facebook.com dirígete a la parte inferior izquierda de la pantalla, sobre el botón de "Configuración".
+2. En el menú lateral izquierdo haz clic en "Información de la cuenta comercial".
+3. En la nueva pantalla que se abrirá haz clic en "Ir a la configuración del negocio".
+4. En en menú lateral izquierdo, haz clic en "Usuarios". Se desplegará una lista, haz clic en "Usuarios del sistema". Luego haz clic en el usuario que creaste en los pasos anteriores.
+5. Al frente haz clic en el botón "Generar nuevo token". En el primer campo te pedirá que selecciones la App que creamos anteriormente. La seleccionas y verás una lista de permisos. Selecciona los siguientes: 
+- business_management
+-pages_messaging
+-whatsapp_business_messaging
+-whatsapp_business_management
+6. Haz clic en "Generar token" Se generará el token, lo verás inmediatamente en una ventana emergente. Este token se ve como un código que debes copias y pegar en un archivo para guardarlo y luego suministrarlo al equipo de Hibot.
+7. Para la generación del segundo token haz clic en en menú lateral izquierdo en "Cunetas". Se desplegará una lista, haz clic en "Cuentas de WhatsApp". Luego haz clic en "Apps". y luego haz clic en el botón "Abrir en el panel de apps".
+8. Se abrirá una nueva venta, en el menú lateral izquierdo, haz clic en "WhatsApp" y luego haz clic en la sección "Primeros pasos".
+9. Se abrirá una nueva ventana y en la sección "Enviar y recibir mensajes" despliega la lista y verás que ya aparecerá el número de tu línea para ser seleccionado. Selecciona tu línea y justo debajo de ese campo, verás el "Identificador de número de teléfono" Selecciónalo y cópialo. Guarda este número para ser suministrado al equipo de Hibot. 
+Una vez hayas hecho estos pasos, comunícate aquí con el equipo de Hibot y terminaremos la configuración para que puedas empezar a usar WhatsApp Api Cloud.
+
+¿Cómo instalar la App HiBot?
+Atiende a tus clientes en cualquier lugar y en cualquier momento, cómo instalar la App HiBot.
+Paso a paso cómo instalar la App Hibot
+Si ya decidiste mejorar la atención a tus usuarios y clientes, con HiBot lo puedes hacer desde la palma de tu mano, aquí te contamos cómo instalar la App HiBot. Es muy fácil:
+
+1. Ingresa desde tu celular a Google Play Store si tienes un dispositivo con sistema operativo Android o App Store – Apple si tienes un dispositivo con sistema operativo iOS.
+2. En la barra de búsqueda escribe Hibot
+3. Inicia la descarga de la App y espera a que termine de descargar por completo.
+4. Cuando finalice, toca el botón Abrir.
+Si cuentas con una licencia de Hibot , inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la Aplicación mobile, lo que te permitirá atender a tus clientes y usuarios desde cualquier lugar del mundo y a cualquier hora, desde la palma de tu mano y en movimiento. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación.
+
+¿Cómo usar el módulo de gráficos de Hibot?
+Aquí te explicamos todo sobre qué es y cómo funciona el módulo de gráficos de Hibot.
+La toma de decisiones inteligentes basadas en datos es fundamental, y es por eso que ahora cuentas con este nuevo módulo de "Gráficos Hibot" que te dará la capacidad de transformar los datos de tu operación en representaciones visuales que te ayudarán a comprender, analizar y comunicar tus hallazgos de manera efectiva y así tomar decisiones para mejorar tu gestión y crecer más. 
+https://youtu.be/z9wg66OAyog
+
+El módulo de gráficos te permite tener una visual de tu operación de manera sencilla.
+https://lh7-us.googleusercontent.com/QD1xv9TnDxCle7q64plkAlp4p6yA5COTH_z_sBYZfi-kaDGaS8YvjSIXUdxWvEZ8I37ERRsO2mA2lFKbhIKj0gz1D-E5fSY2EvH21B_QlZyWUTXq8yTdUdMLciq9zd92zcWbVUpjjU0-Lbj6iKu9Wuk
+
+Beneficios clave de la visualización de métricas y gráficos:
+Visualización efectiva de datos.
+Comunicación más clara de hallazgos.
+Toma de decisiones basadas en datos.
+Ahorro de tiempo en la creación de gráficos.
+Mayor eficiencia en la presentación de información a equipos y partes interesadas de tu organización.
+Exportación de datos para análisis
+Descubre cómo este módulo puede mejorar la forma en que trabajas con la información de tu operación en Hibot  y cómo te permite tomar decisiones más acertadas a través de esta información en tu día a día.
+
+Cómo ingresar al módulo de gráficos de Hibot
+Ingresa con tu usuario y contraseña de Hibot desde en tu computador o desde tu celular a la URL app.hibot.us o haz clic aquí: Hibot.
+En la parte izquierda de tu pantalla encontrarás el menú principal de Hibot. Haz clic en  “Inicio” y en la pestaña “Gráficos Hibot” y verás la siguiente pantalla.
+Nota: Este módulo está habilitado por defecto para los usuarios administradores de tu cuenta.
+
+Si deseas dar el permiso para un rol en específico, ingresa por el módulo de "Administración" - "Roles", selecciona el rol y editarlo para asignarle el permiso al elemento “Gráficos Hibot”. O lee aquí cómo editar roles en Hibot.
+https://lh7-us.googleusercontent.com/nMaNxXUakxQYx3thpBDtqK0mgaJpS5rCNjCw-DkH2h4PuZyI4aFgNUtmzR_UDZ3yQgNKINAET1UnyqyWZ63tr41HHZtH263wNxsKs-WuR84Vw2I1aLHR7vgr-SbGJTAR7JkrPECiwkqzY0d6k7kjm0w
+
+Cómo usar el módulo de gráficos de Hibot
+Aprender a usar este módulo es bastante sencillo y consta de 4 partes o secciones claves que debes conocer:
+https://lh7-us.googleusercontent.com/TXNh4s9zDdoPYcSt93WO3rko04YE8Z2co7gdSIbWIGJtdqQD-ZRz_tpg9BdvZVsHl6jBnHS6QdEb-qHHMIVKDfo94HY4hape4_Vh2tQb8YlgyHf7EP2G5m4Q5YsuVEQe7VlYGX7YKllvEa0HgbUIH18
+
+Sección 1 - Mis canales: Aquí te presentamos una visual de todos los canales que tienes en tu cuenta. Puedes identificar cada ícono del canal, nombre o número telefónico (para Whatsapp) además de su estado actual, siendo los activos marcados con color verde, inactivos con color naranja y desvinculados con rojo.
+https://lh7-us.googleusercontent.com/7Catp4MWbILiEAM6b0uszCCYeCu-7OEC7jgpNDoRESP-ZcJAVj1Q9pUYq7-85nk60JRFaltgeqB0kKnzfpV_Go-aMH6M5ikYoo5_luAXt405tjN9uoyj-XxntrU-Eyt-x_ZifsoSMCwLxUGhhepSOOE
+
+Si tienes gran cantidad de canales, debes dar clic en este ícono  para que se despliegue completamente esta sección.
+
+Sección 2 - Rejilla para agregar gráficos: En esta sesión podrás realizar la creación de los gráficos que tenemos disponibles para ti. Para ver cómo crear un gráfico desde cero, click aquí.
+Adicional, cuando ya tengas creado más de un gráfico, en esta sección puedes organizarlos como desees, arrastrando y soltando los gráficos en el cuadrante de la rejilla en el que quieras ubicarlo.
+
+Sección 3 - Filtro por tiempos y fechas: Aquí podrás elegir en qué periodo de tiempo quieres visualizar la información de los gráficos que ya tienes creados.
+Cuentas con 2 tipos de filtros.
+
+Tiempos predefinidos: Como esta semana, la semana pasada, este mes y el mes pasado. Para filtrar por este tiempo, tan solo debes dar clic en el botón que desees y la sesión se pondrá sombreado en color verde.
+https://lh7-us.googleusercontent.com/LC5cm07344ttE9omKIIbpV0weh62DTNB7DwpiRNoZmzAwzWkEAX617MTVfrEWGjTdrYdfdWAmFhQm2XPj3k3hgRFUTx5AKK0bSY0Z_A0ynuu4T4RARrUyzKNM1oslVMyQ5KfJY5Vv72AXEUriie1WtA
+
+Rango de fechas personalizado: En este rango podrás seleccionar las fechas puntuales que quieres consultar, indicando fecha inicial y fecha final.
+Importante tener en cuenta, contamos con el histórico de hasta 6 meses atrás, pero sólo puedes consultar hasta el máximo de un mes, por ejemplo: sólo puedes consultar del 15 de Julio al 15 de Agosto.
+
+https://lh7-us.googleusercontent.com/elxcjizmwA1QHvyOqVhObl3FT4LhcBoV76u28ZevSDXkOEQ0SoTtiQHeicTOfQZ8AghLRtKCL_f-Z4hdVgpDwP-z2Z7XZAUX4J-gw6X3SLdZUauNOQ4x6wxSAFRsZqRFyERqc1dNm4VQCzBOuizf8N0
+
+Sección 4 - Actualizar: Al dar clic en este botón, podrás actualizar la información de los gráficos que tengas creados.
+
+Paso a paso cómo crear un gráfico en Hibot 
+Pasos para crear tus gráficos:
+
+1. Ubícate en el cuadrante de la rejilla que tenga la opción de “Agregar módulo” y haz clic ahí.
+https://lh7-us.googleusercontent.com/fBLAGbzcw5wTcrQUbtfta2DnWtTsuWx4kQbGPYCZTOB2Nx50m7hJ5UfviwvvTT1UMxjaP_KTxwR4oPhGOIr3wM6ObtWlilgmb4Bu0aeUSU1zBN_y9J4x4IY-Fe1ctkKjuzUWEb88yOau47PFey8aDlc
+
+2. Inmediatamente, verás una pantalla emergente donde debes configurar las siguientes variables necesarias para identificar los datos que se van a mostrar en el gráfico. Estas variables son:
+https://lh7-us.googleusercontent.com/pOQmtVQg9-_f2jpVhpwQ3hCM4kGrZWDMmp0eUq6oukxz8NpwCOSLImOYzNiKEZYRDPAKS_9KMpvCFDY7f4N7FnV31BuMu00mH-Gnk4TzqCrZHUP0fRjvO_phdqD8is0ibtVNqYYLjZag-xgmdCR8Kfw
+
+- Cliente: Te mostraremos los diferentes clientes que tienes configurados en tu cuenta. Selecciona el que desees consultar en el gráfico.
+- Proyecto: Te mostraremos los diferentes proyectos que tienes configurados para el cliente ya indicado y selecciona el que desees consultar en el gráfico.
+
+- Campañas: Aquí te podrán aparecer dos opciones:
+a)  “Todas las campañas” para los proyectos que tengan 10 o menos campañas
+b)  Listado de cada campaña del proyecto.
+https://lh7-us.googleusercontent.com/qvIASdDTPlLC6URi_w3nYWKBGhYfc2QbOFuu6Yb5Qg5h0LObYb24J1UUx5Mq-7vSG5aumDiwxkdwyEpAWDK4y7-xodjRR9PwzmUpOuY0p90ueQHtRx-j4-smQJDb18S_4D6OfxVjrJLcQ51XKO8Pjm0
+
+Podrás seleccionar “Todas las campañas”, una sola campaña o varias campañas teniendo en cuenta que no te dejará seleccionar más de 10 campañas.
+
+- Canal: Aquí te podrán aparecer dos opciones
+a)  “Todas los canales” que incluye todos los canales de las campañas seleccionadas.
+b)  Listado de cada canal de la campañas o campañas seleccionadas.
+
+https://lh7-us.googleusercontent.com/5TgNVoLf2CfA-Z4OhJwhqHtiGdb0ldg9ckXdHXjtd6N_SdfUrvVM2SGcn9qN-QieK-8rPrDyeJEmc9BitquOqCPm39VotU174WVh1-MDSsCw5gTnsCg0ONpTOiqYy0N8IFP7DrAo_C5FR_KFK04oMO0
+
+Podrás seleccionar “Todos los canales”, un solo canal o todos los canales que desees.
+
+- Tipo de información a ver (a graficar): Al momento cuentas con 5 tipos de gráficos que puedes crear en tu rejilla. Debes seleccionar el tipo que deseas, teniendo en cuenta que solo puedes elegir un tipo.
+
+Para mayor información sobre cada tipo de gráfico, haz click aquí.
+
+Si ya tienes definidas estas 4 variables, entonces estás listo para crear tu gráfico, dando clic en el botón de agregar, el cual te lleva directamente a la rejilla y vas a ver tu gráfico con la selección de fechas que tengas marcada.
+
+Nota: Ten presente que puedes crear diversos gráficos en tu modelo, incluso repitiendo tipos de gráficos con información diferente para realizar comparativos o los análisis que requieras.
+
+Conoce los tipos de gráficos que puedes crear
+Para que puedas elegir de manera más acertada los gráficos que quieres manejar en tu dashboard de gráficos Hibot, aquí te explicaremos lo que puedes visualizar en cada gráfico y cómo te puede ser útil para la toma de decisiones en tu organización.
+
+Contamos con 5 tipos de gráficos, los cuales son:
+
+Conversaciones cerradas y transferidas:
+Este gráfico será muy útil para rastrear y analizar cómo gestionan sus agentes las conversaciones con los usuarios a lo largo del tiempo, lo que puede permitir identificar cómo mejorar la eficiencia y la calidad del servicio al cliente.
+
+En el gráfico podrás visualizar proporcionalmente, la cantidad de conversaciones que fueron cerradas y transferidas en el periodo de tiempo seleccionado. Teniendo en cuenta que:
+- Conversaciones cerradas: Son interacciones de servicio al cliente que se han resuelto con éxito.
+- Conversaciones transferidas: Indican que una conversación inicial ha sido transferida de un agente a otro. Las razones para transferir una conversación pueden variar, como la necesidad de redirigir a un especialista o la reasignación de tareas dentro del equipo. 
+
+Cuando creas el gráfico, lo verás así:
+
+https://lh7-us.googleusercontent.com/rpvQ5xMIRmZRdH0AJm4XmFqrQHPhb91Qu0suiC4MKA7GnnKcVgpwobZ6iQI11lZ_fLM-TgN9plRKknTWmQHG_n1Ui6bp6W_437t68YYJffspv7VEQIBkaojPLF240RlyDnEBh7u2hLvmobwXZrq441E
+
+Este gráfico además debajo de su título, nos da el valor promedio de cantidad de conversaciones transferidas en color verde azul y de finalizadas en color morado, según el periodo de tiempo seleccionado.
+Al ubicar tu mouse sobre la barra que desees consultar, verás la cantidad total de conversaciones finalizadas y transferidas , en la siguiente imagen por ejemplo vemos que para el Lunes 02 se finalizaron 17 conversaciones y 5 fueron transferidas.
+
+https://lh7-us.googleusercontent.com/D8Wpf_mpj_WLnkNv5YG2YOM9Fw_I-ZaA-Dw-XC7fJsnrCfPwSrxCkBqCyBuVPFo-RHwZ5gZCUmH9S4A0iiMlHaDVpAXr2xe7BkMpaCAz8kfhwkpxUDwWI3KIBU5xiCFz3L8fRYq7HC_pV0p85Sn1xOg
+
+El análisis de una gráfica de conversaciones cerradas y transferidas puede proporcionar información valiosa sobre el rendimiento de tu equipo. Algunos de los insights que puedes obtener son: 
+
+Eficiencia en la resolución: La cantidad de conversaciones cerradas en comparación con las transferidas puede ayudar a evaluar la eficiencia en la resolución de consultas.
+Identificación de cuellos de botella: Si se observa un patrón de múltiples transferencias antes de cerrar una conversación, esto puede indicar la necesidad de mejorar la asignación de tareas o la capacitación del equipo.
+2. Tipificación de finalización
+
+Este gráfico de tipificación de conversaciones será muy usado para categorizar y clasificar conversaciones o consultas de los clientes en función de diferentes criterios o tipos.
+
+En este gráfico se muestra la proporción de conversaciones cerradas que se tiene por cada tipificación que has creado en tu proyecto, para evidenciar la distribución de uso de dichas tipificaciones.
+
+Cuando creas el gráfico, este se mostrará así:
+https://lh7-us.googleusercontent.com/5PtQ7ERwzSw_t0yzlF67dNAUOlTh_dmQ9iyrnt7_PPNzshkffF3W2xqjiuREO-C6JVDCDyjkmMLJfxxVKqASlTFiYN2OMOd0GyYt_ewfMg_Bt_HQabxEqA_3vzawt3dNgiEnj8H749o5Mi6G0dKfbqU
+
+Para ver todas las tipificaciones relacionadas a la gráfica, se cuenta con un scroll a la derecha de la leyenda de la gráfica, para desplazarse hacia arriba o hacia abajo.
+
+Al ubicar tu mouse sobre cualquier parte de la torta de la gráfica, verás la cantidad de conversaciones por esta tipificación y el % que representa frente a la totalidad de tipificaciones. En la siguiente imagen por ejemplo vemos que para la tipificación de “FINALIZADO” hay 349 conversaciones, representando el 47.81%
+https://lh7-us.googleusercontent.com/tvSARVyLDkENIT9ql8uHl0YbrmKUicP9W0d2UdhBl2kxnP5a_aEV87WPxxkgLaZa1JSglzY_2HEtgPlyle81FGUcKlEqSa68pD4qyRwsNIT1JlEAnW66u7Zu_LBACz9g1EvhXdeoKum54KMB7bW3wVM
+
+El análisis de una gráfica de tipificaciones ayuda a entender cómo se está comportando la atención al cliente en función de dichas tipificaciones. De dicho análisis, algunos de los insights que puedes obtener son:
+
+Distribución de categorías: Puedes ver cuántas conversaciones se han tipificado en cada categoría. Esto te permite identificar temas que son más frecuentes en la atención de tus clientes y, por lo cual, requieren más atención y recursos.
+Identificación de patrones y previsión de necesidades del cliente: Al analizar la gráfica de tipificación a lo largo del tiempo, es posible identificar patrones y tendencias en las conversaciones de los clientes. Esto puede ser útil para anticipar las necesidades de los clientes y mejorar la calidad del servicio.
+Optimización de recursos: Al comprender qué categorías ocupan la mayor parte del tiempo de tu equipo, puedes optimizar la asignación de recursos y la capacitación en áreas específicas.
+3. Categorías de conversación (Meta)
+
+Importante: Gráfico solo disponible para los canales de Whatsapp oficial.
+
+Este gráfico proporciona una representación visual de cómo se distribuyen las conversaciones de tus líneas oficiales en diferentes categorías o áreas de interacción.
+Es importante tener en cuenta, que en este gráfico se muestran totalizadas tanto las conversaciones gratuitas como las que generan cobro.
+
+Cuando creas el gráfico, lo verás así:
+https://lh7-us.googleusercontent.com/zn0SeIqTT1LKzv7rjg4-WVpOmmH4I_KSJgVa8U90FdsQbDoumf4VnI407oz5t2qjsshx6dElUoa_IIzAkpuMKJpLxAzjHa5FNx9iHaBy0StjQmAHgKNpUPbtE1QFQ8PZQ6kAX9r4aR4xUd9-0MVAepU
+
+En el medio, puedes ver el total de conversaciones por el canal, según el rango de fechas que tengas seleccionado.
+
+Al ubicar tu mouse sobre cualquiera de las líneas de la gráfica, verás la cantidad totalizada por categoría, en la siguiente imagen por ejemplo vemos que para la categoría de servicio se generaron 45 conversaciones:
+https://lh7-us.googleusercontent.com/3skvxHd_QVf0UOWNElZCbuLrOjelgC0GI90ZHWY5KyIlWf-KchvX48etZZXHCR0rCFSBkckA3BFnOpeyq-5OwjQU4nR6_D41dsTz_rMdIUYcF33IGJe1GfWS9Q-ZRy2wm2DopEnRh5i6kMHEQWtGkaY
+
+Algunos de los insights que puedes obtener son del análisis de esta gráfica son:
+
+Distribución de interacciones: Puedes ver cómo se distribuyen las interacciones entre los usuarios en las distintas categorías, lo que permite comprender qué tipo de conversaciones son más relevantes en un período de tiempo específico.
+Priorización de recursos: Si observas que un tipo de conversación específico está experimentando un aumento significativo, puedes priorizar recursos y personal para manejar ese tipo de interacción de manera efectiva.
+Identificación de tendencias: Observar la gráfica a lo largo del tiempo te permite identificar tendencias en las conversaciones y si algunas categorías están ganando o perdiendo relevancia con el tiempo.
+
+4. Conversaciones por canal
+
+
+El gráfico de cantidad de conversaciones por canal es una representación visual que muestra la distribución de las interacciones o conversaciones entre los usuarios y los agentes a través de diferentes canales habilitados para atención.
+
+Cuando creas el gráfico, lo verás así:
+
+https://lh7-us.googleusercontent.com/sFUluNeQ7rwytnVG4-ESMhYAtrNf61bapZpWcJBZD4a0rDaN_mzXDl_y-jSNcbiWTF5IIbhxOipIvPg3nX6BI4cA4-xO-sJUJWPGVlDih9YcJIXIZezfs0-4bctfnv0mrGw1BslagGw7joSHwchTyn0
+
+Al ubicar tu mouse sobre cualquiera de las líneas de la gráfica, verás la cantidad de conversaciones por estado en el canal. En la siguiente imagen por ejemplo vemos que el canal de Whatsapp tiene 5 cerradas, 2, transferidas y 0 activas e inactivas.
+
+https://lh7-us.googleusercontent.com/11rG3n_8JD39vO_bJvKoexM-AM_UXTwNBbkS8SPrJWLsv2TgQvPmdvjy9Ff2y1ZlR6YD0X0pVG6sI_IVGmib87qB6_KkYfnxw-ezbsIH28DEi8ggfHZqpLzRGJWew1sf-q4Oq4FxoQC3Lsb57vBMloQ
+
+Los insights que puedes obtener de una gráfica de cantidad de conversaciones por canal son los siguientes
+
+Distribución de interacciones: Puedes identificar cuáles son los canales de comunicación más utilizados por tus clientes para interactuar con tu empresa. Esto te ayuda a comprender cómo prefieren comunicarse tus clientes.
+Priorización de canales: Si observas que un canal específico está experimentando un aumento significativo en la cantidad de conversaciones, puedes priorizar recursos y personal para ese canal.
+Optimización de la estrategia de comunicación: Los insights de esta gráfica pueden influir en la estrategia de comunicación y en la asignación de recursos para satisfacer las necesidades de los clientes de manera efectiva.
+
+5. Conversaciones promedio atendidas por agente
+
+Este gráfico es una representación visual que muestra cuántas conversaciones consumidas (conversaciones cerradas + conversaciones abiertas) en promedio, un agente activo atiende durante un período de tiempo específico. Esta gráfica es valiosa para evaluar la eficiencia de tu operación y la carga de trabajo de los agentes.
+
+Cuando creas el gráfico, lo verás así:
+https://lh7-us.googleusercontent.com/PlD8juMCQoy73douSSisJ0c47GVmyorTI2orKPkPloj2Drrqff1dHqouTWObEviXs_O6wTGuumb-sv4J-hLq_9Qb7ppldPwbRq2DV-fMDfZFims3TbPzncKqgwfm0SSdFzhY4DabO7mP94dr4L56Fy0
+
+Al ubicar tu mouse sobre cualquiera de las barras, verás:
+- Cantidad de agentes activos: Un agente activo es considerado
+- Promedio de conversaciones: Cantidad de conversaciones promedio atendidas entre el número de agentes activos
+- Conversaciones consumidas: Cantidad total de conversaciones cerradas y abiertas.
+
+En la siguiente imagen por ejemplo vemos que durante el martes 03, se consumieron 4 conversaciones, atendidas entre 29 agentes, lo que me representa un promedio de 0.14 conversaciones por agente.
+https://lh7-us.googleusercontent.com/LAK7ePQk4iz9-QNWiiaizSxk_I4gZo26INv8b_YskiDKe0xmjEStWlo3UkARxyGSvNc77XMVI3BBZ1TmRPd27jVMqN9NluNVIIPK0MO2a4uZ-RkIwMr2TIfw_KAPrudVP0dHnoaQdxsmO1O15XqNTSk
+
+El análisis de esta gráfica puede generar algunos insights, tales como:
+
+Planificación de recursos: Puedes tomar decisiones informadas sobre cuántos agentes se necesitan para manejar un determinado volumen de conversaciones y cuándo programar más personal.
+Evaluación de la carga de trabajo: Permite evaluar la carga de trabajo de los agentes y para evaluar posibles cambios en pro de equilibrar la carga de trabajo y mejorar la rendimiento y productividad de la operación.
+Cómo exportar la información de un gráfico 
+De cada uno de los gráficos que están disponibles, se puede realizar la exportación de los datos para extraer información más detallada y específica del gráfico en un formato utilizable, en este caso, en un archivo CSV.
+
+El uso de esta funcionalidad de exportar datos de un gráfico, permitirá a su vez analizar, compartir y utilizar la información para la toma de decisiones basadas en datos y creación de informes personalizados, según tus necesidades.
+
+Cómo exportar datos de un gráfico:
+
+Identifica el gráfico del cual desea exportar la información.
+Da clic en el ícono de “Ver detalles” 
+
+https://lh7-us.googleusercontent.com/KsUIXdpK1hk00PikHUcLsu0dwvhfImCiH8ucKi9ftxtcIQqR6vdg5VhDxm6BqLoaHdd7dwHTvox04jVjeIQw5QAD-EiiXVjBRqSvSlqmJKU3GINqVQ3BAquQZzq1QJim2aDdW93NEwzUPStEYeN7VMw
+
+Automáticamente se generará un archivo en CSV que contiene los datos del gráfico.
+Elimina un gráfico
+Puede que sea necesario eliminar un gráfico para actualizarlo o reemplazarlo por otro tipo de gráfico que contenga información más relevante o por el mismo gráfico pero con variables diferentes.
+Independiente del caso, para eliminar un gráfico debes seguir los siguientes pasos.
+
+Identifica el gráfico del cual desea quitar.
+Da clic en el ícono de “Quitar este módulo”
+https://lh7-us.googleusercontent.com/s5rk5xvhhTeHk5kVrqHZmocKzCO41u7PM1aCZvFQtII1_dwV4PIqzp7dfje_hsbflmNBePifOVlSzT_m5u0iDASoVSG0BdYRm0DRl1oupSj5KjAc45noxrqI_bCQCudYR_HxFWyqCNimWbLczAp8PH8
+
+Se muestra una ventana de confirmación del proceso de eliminar, debes darle clic al botón “Quitar”.
+
+https://lh7-us.googleusercontent.com/ios671vnV4OgHWa5hDioD-7mOdNqmGHAsGlLsw-NR-EclCNNwOnHUN_V9rqKQwqpfoAdPfphwjTPou_5e8l7gK-23k7ifwmNnhXUCdbeC3rXinyNCv9YMJ0gXqARBUQgw6ABEZ94DFfviUlu7Fpe_AI
+
+Automáticamente se quitará de la rejilla el gráfico y se reorganizará con los demás gráficos ya existentes. 
+
+
+
+
+

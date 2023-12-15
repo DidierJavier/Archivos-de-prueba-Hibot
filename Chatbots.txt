@@ -1,0 +1,814 @@
+Chatbots
+Aprende todo sobre nuestro módulo de chatbots, cómo crearlos, cómo editar, integrarlos a tus canales y mucho más.
+¿Cómo crear y usar chatbots de encuestas de satisfacción?
+¿Cómo crear un chatbot en Hibot?
+¿Cómo usar el nuevo nodo de integración con API de la plataforma de chatbots de Hibot?
+Cómo crear chatbots para el chat de tu página web (Live Chat) en Hibot
+Guía de acciones para tus chatbots en Hibot
+¿Cómo configurar tu chatbot? Después de haberlo creado.
+¿Cómo ingresar al módulo de chatbots de Hibot?
+¿Cómo usar los disparadores manuales en el módulo de chatbots de Hibot?
+Cómo crear chatbots para Facebook Messenger en Hibot
+
+¿Cómo crear y usar chatbots de encuestas de satisfacción?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí te enseñaremos paso a paso todo sobre cómo crear y usar tus chatbots de encuestas de satisfacción.
+El módulo de encuestas tiene como finalidad que logres evaluar el funcionamiento de tus bots implementados, entendiendo si realmente estás solucionando los problemas de tu cliente cada vez que se comunica contigo y así puedas implementar mejoras en tus bots y en tus procesos
+
+Particularmente esta solución nos permite encuestar a nuestros clientes luego que interactúen con nuestro chatbot (Chatbot encuesta que finaliza en Chatbot)y con los agentes a los cuales derivemos las conversaciones. (Chatbot encuesta que finaliza en agente).
+
+https://lh5.googleusercontent.com/wox2-hBXYhgha10j6NNjaFGcFSxJCYM5PuwYFIvarVeSCWySHhoMjtNcube8cTtMJ9sGEtQGxstXFw67734h3J3m5nUVauQwA6i053wvdG1484iefBInfjEDTKo0pRhnU6zvdkd4-HglLSLy2wqq6g=s2048
+
+Paso a paso para crear un bot de encuesta de satisfacción: 
+1. Ingresa al módulo de “Mis chatbots”. Aquí  (Link a Ingresa a chatbots) ***** te explicamos cómo hacerlo.
+
+2. Crea tu chatbot así (Link a Crea tu chatbot).*******
+Recuerda que para que tu chatbot quede tipo encuesta debes seleccionar en el disparador “Al finalizar conversación” y elegir si:
+- Seleccionar el Chatbot en el cual se va a adicionar la encuesta cuando finalice la conversación, o
+- Las conversaciones vienen de un agente
+https://lh5.googleusercontent.com/qr9tTarbXZAStLZJfKGIhpJZN5kT02566YHxo8knr1pK0gllLwoaOyN1ZVnDee3oh4rIVna70LncxlgOoZFXczA5B66NpWs7J5e5XY2yOVlSFNZPEWNhg0SQqzQpPBSigZ0pxAPJA-CHpEbHSzDMbw=s2048
+
+3. Iniciar la creación del flujo que deseas para tu bot de encuesta en la mesa de diseño (Link a Aprende a usar la mesa de diseño)*****
+
+Para este tipo de bot contamos con tres acciones principales:
+
+- Canal de inicio: Con esta acción iniciamos la construcción de tu bot de encuesta.
+En ella debes seleccionar de la lista desplegable de canales disponibles, el canal donde quieres habilitar tu chatbots y la campaña que usarás para las que vienen de agente (Este bot debe tener campañas previamente creadas y se pueden seleccionar varias)
+https://lh5.googleusercontent.com/YuBZr0lVYDi9zqr9MCGHu3XtRHOoy88zjfmJvkPk7NmjLJ00roz3xywLSOMAmZLVIbs544JDw_8Meaf3QrSPuz6TfvGOTVgheEm74AqcIc_ZPzu4Ta55TzkPsuvyujlM1S0d7gCpd8JuW848qYeZwg=s2048
+
+- Mensaje y/o captura de datos: En esta acción es un poco más simple a la de chatbots para iniciar conversaciones.
+Te permite configurar aquellas interacciones donde deseas entregar un mensaje a tus usuarios en la encuesta.
+https://lh3.googleusercontent.com/mPXqCFA8jf2nCduP6TsZ4US7ddr_86prqZ7PtAn5WRZlDkkQpmSQZ5iO_ssNiHyLzoq-ToEXJvH8FfviBRL_eC3q9l-l8JbthQMj77tT18tDXB_GpcDO9ztdAibGexE1g8zbxaPt8iqqq2R9L0IBQQ=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot.
+Este nombre es opcional.
+Configurar el mensaje a enviar al usuario: Ingresa el texto que se le enviará al usuario cuando llegue a este punto de la encuesta.
+Seleccionar si quiero o no guardar la respuesta del usuario.
+- Encuesta:
+Para la realización de preguntas cerradas, por ejemplo "Califique de 1 a 5", "¿Resolvimos tu inquietud?" "Si o No", se utiliza esta acción. Esta permite tener hasta 5 posibles respuestas.
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh6.googleusercontent.com/FQlXGY518hKR38Fe-5nkCyhzeAbe-dftH0hzkiGkew4oPT3HwQp1-Il6M3X5eTCNOiu4nqgrgS_njY3pzqVMKXcqVLEjot-SF8UaCQKkvQF8U2Axdi-8SJiZEerNoE0YvAu7e8rrOI2hByE8PKinkQ=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción: 
+
+https://lh6.googleusercontent.com/rBVeuyljSfcU9EyWLQkHRUJM37d8xSjDcArhxdqGfpViovgNsv0CVcBpVZE-F02duFne9k4umJ49R-tpkTGbbdAzcBEZ_4UBOmb2WGXJ53rVTht74zvFvhJ86My50FFOnEFfj4ueYsQZ9kTD-jJo2Q=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot.
+Este nombre es opcional.
+Ingresar el mensaje de la encuesta: Diligencia el texto que se envía al cliente cuando llega a este punto de la conversación y dónde se le sugiere que seleccione una opción de las descritas posteriormente.
+Configurar las opciones: Para ello, se debe primero ingresar el texto que va a describir la opción y en el siguiente campo seleccionar la acción, es decir, definir el camino que seguirá el flujo si va por esta acción.
+
+A tener en cuenta:
+- No se permite hacer derivación a agente ya que se entiende que esta opción se activa cuando finaliza la conversación.
+- Los números de las opciones pueden aparecer como emoji, si le das clic en cualquiera de los botones de opción.
+Para tener en cuenta:
+
+Recuerda que una vez tengas listo tu flujo de encuestas, ir a validar y publicar tu bot de encuesta para que tus clientes puedan calificar tu operación.
+(Link a validar y publicar tu bot)********
+Los bots de encuesta no están habilitados para ser probados.
+En la configuración de encuestas puedes acceder a estas opciones: Editar información básica, configurar mensajes (inactividad, reintentos) y borrar el bot.
+
+Conoce el resultado de tus encuestas
+
+Para ingresar a conocer el resultado de tus encuestas y manipular y exportar esta data puedes hacerlo por dos partes:
+
+1. En la parte izquierda de tu pantalla encontrarás el menú principal de Hibot.  Haz clic en  “Chatbots” y en la pestaña “Encuestas”.
+https://lh4.googleusercontent.com/7cTB5kKXJmwnTA6o2clqTRnc35ZhsygMvXCitG6Q03vi0av6p078s218woS8q7azz2u5w8nHsfDfwpr_q6bCEDoi78C0VDNHn9hckFrbmipkq1rFc90KfBE8sxZK3MpJCSYUvMPOWKygYlu2ax1xww=s2048
+
+2. En la parte izquierda de tu pantalla encontrarás el menú principal de Hibot.  Haz clic en  “Chatbots” y en la pestaña “Mis chatbots” y en el botón encuestas.
+
+https://lh5.googleusercontent.com/NGYVjyeuU1CTSmVg54r1Us6Vaa0gz6qksT14A9cQMq8FUqNUCqMm9uxW3zdySpwC3pYvHuhhUy6ONEnnIw8O5agYnnpG2ipXn9U2_8S5xLE46C4XHu8nWhQubkjZFbqtdpLXkVoQeX9ivIuXewVIvA=s2048
+
+Una vez ingresas, se muestra la tabla con las respuestas de tus clientes y la posibilidad de realizar diversos  filtros por chatbot, campaña, cuenta de contacto, rango de búsqueda, que te permitan visualizar la información que requieras y adicional puedes exportar esta información para su posterior uso y análisis.
+
+¿Cómo crear un chatbot en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo crear un chatbot en Hibot
+Mejora la experiencia de atención de tus clientes y tus agentes diseñando tus propios bots desde una interfaz fácil de usar, intuitiva y agradable. Aquí aprenderás cómo crear un chatbot en Hibot.
+https://youtu.be/xkZdTdJdbNg
+
+Puedes crear tres tipos de chatbots:
+
+Mensaje inicial: Será el primer mensaje que saldrá automático cuando se inicie una conversación. 
+Captura datos de usuario: Capturará los datos principales del usuario o cliente con el que estás hablando.
+Delegar a un agente: Enviará la conversación automáticamente al agente que elijas según los parámetros que selecciones. 
+Paso a paso cómo crear un chatbot en Hibot:
+1. Ingres a Hibot con tu usuario y contraseña 
+
+2. En el menú lateral izquierdo de la pantalla haz clic en "Chatbots". Verás una lista desplegable, haz clic en "Mis chatbots". 
+
+3. Se abrirá una nueva ventana. Haz clic en el botón "Crear" ubicado en la esquina superior derecha de la pantalla. 
+https://lh4.googleusercontent.com/vehjNu14pYV23yB5RGJxl8NHmhbZtBw99AGnGWK2kIvazJuAoBa1skrZ76Lk6oYwffk0lBIb9nNW-ZyDpHTBXd9J_2oGfY2NSEknTgFzAQ2Ya_oWGFFOprnrHDYavMeMA0fCx4dtI0kPDj7yjBWjIQ=s2048
+
+4. Se abrirá un popup. Llena los campos de nombre, descripción y tendrás la posibilidad de elegir el tipo de disparador de ese chatbot. 
+
+5. Para elegir el disparador despliega la lista, puedes elegir entre "Al iniciar conversación" o elige "Al finalizar una conversación"
+https://help.hibotchat.com/hs-fs/hubfs/1.1%20Crear%20Bot%20-%20Vacio%20Disp1.png?width=688&height=430&name=1.1%20Crear%20Bot%20-%20Vacio%20Disp1.png
+
+- Si elijes "Al iniciar conversación" y hacer clic en "Crear chatbot" aparecerá una nueva ventana donde podrás iniciar la creación de tu flujo de chatbot. 
+
+- Si elijes "Al finalizar conversación" (Esta última opción solo está en uso para bots de encuestas) (Cómo crear bots de encuentas de satisfacción)*****, escoge entre las dos opciones que son "Las conversaciones vienen de otro chatbot" o "Las conversaciones vienen de un agente".
+
+- Si quieres crearlo para que tus agentes, lo usen desde la bandeja de entrada como apoyo a su gestión, elige la opción “Disparador manual”
+- Tipo de canal: Actualmente está habilitado WhatsApp y también para Livechat
+
+- Si selecciones "Las conversaciones vienen de otro chatbot", vas a ver una lista desplegable donde verás tus bots activos, seleccionas el que quieres usar y luego haz clic en crear chatbot.
+
+- En caso de elegir la opción "Las conversaciones vienen de un agente", solo debes hacer clic en el botón "Crear chatbot". 
+
+- Cualquiera de las dos opciones te llevará al panel de creación de flujos de chatbot. Allí podrás personalizarlo. Lee aquí también cómo usar el creador de chatbots
+
+6. Una vez tengas toda esta información, solo debes dar clic en el botón “Crear chatbot”
+
+7. Luego de crear el chatbot, se abrirá una nueva ventana donde verás el "Encabezado" y la "Mesa de diseño" que te permitirá usar las diferentes acciones (Guía de acciones para tus chatbots)***** que tenemos disponibles para configurar tu flujo.
+
+Crear encabezado del chatbot: 
+Cada chatbot tiene un encabezado, en el cual encuentras:
+https://lh6.googleusercontent.com/8s7Om1I16hVtL9fk97-Y8UXLBrIYH9CR2p-K9S9K3T1EKY90D1OFLKPSDwFp3LBSexASiToUSVfJkEjUcX8lYeHZ_Rt28ZvPO3KtmO1ARGPQTFC2ourHx6FZZ2HpNm1sHEGzQIYmLHhdC0jRqY2JMg=s2048
+
+Información del Bot como: ícono del canal donde está implementado el bot, su nombre y descripción
+Estado actual del bot. Este puede ser:
+- Activo para bots publicados exitosamente y disponibles para los usuarios.
+- Inactivo
+Opciones de configuración del bot  (Link configura tu chatbot)*****
+Botón de validar y publicar, que deberás usar para publicar en tu canal el chatbot una vez finalices su diseño.
+Cómo crear el chatbot en la mesa de diseño de Hibot 
+En la mesa de diseño crearás tus flujos de  manera gráfica y fácil. Para dicha creación en  Hibot ofrecemos el uso de acciones (Nodos) (Guía de acciones para tus chatbots ) y de conexiones (Realiza y elimina conexiones entre acciones).
+
+Sugerencia: Antes de implementar el chatbot realices un borrador con el esquema o flujo del chatbot en herramientas como draw.io ya que al visualizar previamente el flujo puedes ahorrar tiempo y evitar reprocesos en la configuración. 
+
+A nivel gráfico se cuenta con una barra de herramientas para mejorar la visualización del diseño y se tienen las siguientes opciones:
+
+Zoom in - Zoom Out: Te permite acercar o alejar una parte específica del diseño. También puedes utilizar el scroll del mouse para esta función.
+
+Utiliza este icono   para volver a centrar el flujo y que quede ocupando toda la pantalla.
+Y este para bloquear el flujo, evitando que al moverlo completamente se desplacen las acciones o para desbloquear en el caso de querer mover acciones y conexiones.
+Scroll horizontal y vertical: Cuando el diseño abarque más espacio que tu pantalla puedes utilizar el scroll vertical y horizontal para desplazarse en la mesa.
+Aquí el video para realizar el proceso paso a paso:
+https://youtu.be/R31kLAc7Z3g
+
+No pierdas oportunidades dejando conversaciones sin responder. Los chatbots funcionan 24/7. Tus clientes no quieren límites de horario. Además te permiten una atención rápida y oportuna. Si quieres saber más, visita el siguiente enlace: https://hibotchat.com/bots/
+
+¿Cómo usar el nuevo nodo de integración con API de la plataforma de chatbots de Hibot?
+Aprende cómo hacer tus integraciones de forma más fácil y rápida con los chatbots de Hibot. Te enseñamos cómo usar el nuevo nodo de integración con API de la plataforma de chatbots de Hibot.
+Durante la creación de tu chatbot, puedes necesitar que tu bot se conecte con un servicio de terceros o con diferentes softwares. Lo anterior lo puedes lograr a través de un API que te permite intercambiar información, por ejemplo para extraer datos o almacenarlos en alguna base de datos. Para ello, puedes contar con el nodo de integración con API, que te permite realizar integraciones a través del uso de los siguientes métodos HTTP:
+
+GET
+POST
+PUT
+PATCH
+DELETE
+Paso a paso sobre cómo usar el nuevo nodo de integración con API de la plataforma de chatbots de Hibot
+
+Ingresa a Hibot con usuario y contraseña
+Dirigete al menú lateral izquierdo de la pantalla y haz clic en "Chatbots"
+Luego haz clic en "Crear". Se abrirá una ventana emergente. Llena los campos como si estuvieras creando un chatbot.
+Verás que se abrirá el panel de creación de bots. 
+Crea un primer mensaje con un mensaje genérico de saludo y luego agrega el nodo y escoge la opcón "Integración con API". 
+Aparecerá una ventana emergente. Llena los campos que te aparecen: 
+Ingresa el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot.
+Este nombre es opcional.
+
+
+
+b. Selecciona el método e ingresa la URL:
+Ten en cuenta que la URL que ingreses debe ser HTTP:// o HTTPS:// de lo contrario no se le permitirá guardar los cambios.
+
+c. Estos valores pueden ser elegidos en la opción de “agregar variables” según las variables guardadas o campos dinámicos disponibles o simplemente se puede diligenciar el valor que se desee otorgar a la llave.
+https://lh6.googleusercontent.com/xLXCI1d1u6lGGGri-7ob_KQ2k9ZYChr6AQbOB7JaVgJuBHVi-WZkB4RZObI4Y9jqU0s9N1-HEE6RnHswBphU7Ui-LPzeIQzpPPjmNY5P1w58bV40WM-hHaa6Bpe_1UVtURBfCilP5uy-Hev55I1oByw
+
+Personaliza valores en los parámetros, encabezado y cuerpo de la URL.
+Por defecto esta personalización está desactivada, en el caso de que se desee personalizar alguna de estas opciones dentro de la URL, se debe activar el suiche y configurar la llave y el valor que va a tener el parámetro, encabezado o cuerpo.
+
+d. Prueba la comunicación de tu Api:
+Con la información anterior diligenciada y usando el botón verde, puedes probar si una solicitud puede funcionar correctamente.
+
+Hacer clic en “Prueba de comunicación”
+Establecer manualmente los valores de las variables de prueba
+En caso de tener personalizaciones en parámetros, encabezado y cuerpo con variables, será necesario diligenciar un valor para poder efectuar la prueba.
+https://lh4.googleusercontent.com/jw-opa98R-frWcPZrftAQ1Usya4PsQdcaLzj6LuW0SqkyMbNvadhtN2ydsm2M94eKhm6K_cR9Hzc6oQgvnruYazKsogM0UTK-ndiv7Xhpw45UAvqgZ9sIU1qu9J3NlbUDIioza6ArAq3b-gSOJDCyG0
+
+Se realiza la prueba del Api deseada
+Visualizar el cuerpo de la respuesta, debajo del botón de prueba.
+
+En caso de que la prueba sea exitosa se observa así:
+https://lh4.googleusercontent.com/N8QlP-3hfyceNQPyVLHzgx_eYeRzl5jho3hiLqcHlMrIgzaIJKoXL09GkuhRH2whpVbiIkM1A-VKAC5f9cPGEKlnn-yKBgkfoKrNQgunssR7tdqFAfyZWmonwdmM7qyBktLx-rvVco4nw7YpfPUBksg
+
+En caso de que la prueba falle, se presenta el siguiente error:
+https://lh3.googleusercontent.com/ltzQmslRT1smJW5k_O7K3spmVNT9FpNveryinhgrR0MQXdrfA1mFEmYP9c1Uvr2UQ6XAqKI19QCCLeeKUQ0lka4pyxPJG692VufIuSk4akPgGBSRcCAuqSpjT7oN8GuY4PQYPWBVPpMBwdKs2pNTCco
+
+e.  Gruardar respuestas: En esta sección podemos almacenar algunos de los campos que nos da la respuesta del api para el bot
+Para ello:
+
+Activar el suiche de “Guardar respuesta”
+Seleccionar el campo a almacenar: En esta opción solo se presentarán los campos primarios disponibles.
+Definir si se quiere almacenar como campo dinámico o como variable de conversación.y seleccionar según los disponibles.
+
+f.  Enrutar el flujo del chatbot: Según el código de respuesta del Api, si es 200 o 400, se debe seleccionar la acción que se desea que siga el bot.
+https://lh3.googleusercontent.com/fABgC5mgw_7YKtTe7khRakYAnvbT4s9VQRoZHfhSi9LlG_5708s73kyngW4yVLDB8qPB2OP1OaVw8B3My9LvFlivSpswTBATDuTQtHFXW1olFawxBO4XNcxwRGieYHvItBJ2M9JIGXebbFm5hvQggkc
+Una vez que haya especificado todas las acciones a seguir, puede regresar a la mesa de diseño para continuar configurando el bot.
+
+Cómo crear chatbots para el chat de tu página web (Live Chat) en Hibot
+Aquí te enseñamos paso a paso cómo crear chatbots para el chat de tu página web (Live Chat) en Hibot. Además te enseñaremos cómo probar el chat.
+Aprende más sobre cómo crear y modificar tus propios chatbots, diseñando un flujo de manera rápida y fácil.
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-43-08-6128-PM.png
+
+Cómo crear un chatbot para Live Chat en Hibot 
+Haz clic en el botón “Crear” ubicado en la esquina superior derecha.
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-44-17-0438-PM.png
+
+En la ventana emergente que aparecerá, ingresa:
+- Nombre: Ingresa un nombre con el que fácilmente puedas identificar tu chatbot.
+- Descripción: Diligencia un texto breve que referencie la funcionalidad de tu chatbot.
+- Disparador: Debes seleccionar si quieres elegir si el flujo que estás creando será usado para iniciar conversación o para finalizarla.
+a.  Si quieres que tu chatbot se active una vez tu cliente te hable, escoge la opción "Al iniciar conversación"
+b.  Si quieres que se active cuando se finaliza la conversación, elige la opción "Al finalizar la conversación".
+Esta última opción solo está en uso para bots de encuestas (Link a Crea y usa bots de encuesta de satisfacción)
+c. Si quieres crearlo para que tus agentes, lo usen desde la bandeja de entrada como apoyo a su gestión, elige la opción “Disparador manual”
+- Tipo de canal: Actualmente está habilitado WhatsApp y también para Livechat
+
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-44-25-6396-PM.png
+
+Una vez tengas toda esta información, solo debes dar clic en el botón “Crear chatbot”
+Luego de crear el chatbot, se abrirá una nueva ventana donde verás el "Encabezado" y la "Mesa de diseño" que te permitirá usar las diferentes acciones (Link a Guía de acciones para tus chatbots) que tenemos disponibles para configurar tu flujo.
+
+Pasos paso cómo probar un chatbots de LiveChat:
+-Finaliza el flujo de tu chatbot
+
+-En la opción de configuración, da clic en la opción “Probar chatbot”
+
+-Te aparecerá una ventana emergente que simula la conversación en Livechat, donde puedes hacer la prueba completa del chatbot.
+
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-44-40-5333-PM.png
+
+También puedes usar el ícono de refrescar  para reiniciar la prueba o el ícono de cerrar para finalizar la prueba.
+
+Tenga en cuenta que ninguna información ingresada en durante la prueba será guardada, las conversaciones no serán delegadas a ninguna campaña ni cuentan para las estadísticas internas o para los consumos de su cuenta.
+
+-Cuando te cerciores que el comportamiento del chatbot es el esperado puedes publicarlo para tus clientes (Link a validar y publicar tu bot)
+
+Guía de acciones para tus chatbots en Hibot
+La mesa de diseño tiene múltiples acciones (nodos) con lo podrás crear tus bots de manera eficiente y personalizada. Aprende aquí las acciones o nodos para tus chatbots en Hibot.
+Para que comprendas mejor, cada acción o nodo, son tareas que ejecuta el chatbot hacia el usuario, por ejemplo la acción de mensaje que envía un mensaje de texto a tu cliente. 
+
+En este artículo, conocerás las siguientes acciones:
+
+Canal de Inicio
+Mensaje y/o captura de datos
+Recurso
+Menú de opciones
+Respuestas rápidas
+Lista
+Delegar a un agente
+Decisión
+Tiempo de espera
+Horario de atención
+Integración con API
+Variables
+1. Ingres a Hibot con tu usuario y contraseña 
+
+2. En el menú lateral izquierdo de la pantalla haz clic en "Chatbots". Verás una lista desplegable, haz clic en "Mis chatbots". 
+
+3. Se abrirá una nueva ventana. Haz clic en el botón "Crear" ubicado en la esquina superior derecha de la pantalla. 
+https://lh4.googleusercontent.com/vehjNu14pYV23yB5RGJxl8NHmhbZtBw99AGnGWK2kIvazJuAoBa1skrZ76Lk6oYwffk0lBIb9nNW-ZyDpHTBXd9J_2oGfY2NSEknTgFzAQ2Ya_oWGFFOprnrHDYavMeMA0fCx4dtI0kPDj7yjBWjIQ=s2048
+
+4. Sigue los pasos cómo te lo explicamos en este artículo sobre ¿Cómo crear un chatbot en Hibot?
+
+Cuando hagas clic en "Crear chatbot", podrás ver la ventana con todos las acciones que puedes utilizar para personalizar el bot.
+https://youtu.be/NE4M4Tjfdfg
+
+Esta es la acción con la que se inicia la construcción de todos los chatbots de Hibot y la única obligatoria.
+
+En ella debes seleccionar de la lista desplegable de canales disponibles, el canal donde quieres habilitar tu chatbots.
+https://lh5.googleusercontent.com/7GYzlOxEULXTWStqyKCBzorzsc5S8JSXb_IwmlZrhKQwJ6NQ-vJGTdwS7hytTOmjGhfF0ezD24085PCr_1BDTurasbYKeiNy32OXY971kBHgXTvCcLUSJ3-jzAdnlZjn5FgUbnC7E_frRlpLzv_YLg=s2048
+
+Adicional, es importante tener presente que desde este nodo se despliegan las demás acciones que se tienen habilitadas para la construcción del resto de tu flujo.
+Para ver las acciones debes dar clic en el ícono de  y para usar alguna, debes seleccionar la que desees.
+
+https://lh6.googleusercontent.com/NUn3TGWlWdEK0Ut7vXrSKTm3Wbk6YgwqwZd0ZCkt4xCIkfvB-oBx_P5mEH64CepDcr_Z4AfksV-0hubuvtWysg16MpCxcDeK2WPh7UsHhQQbMFQBGnQeqkpkn_-ei7X360pLOEr96Qdu8FuGCI85bA=s2048
+
+Mensaje y/o Captura de datos
+https://youtu.be/cOJpCiyNNEk
+
+En esta acción puedes configurar aquellas interacciones donde deseas entregar un mensaje a tus usuarios y/o buscar capturar datos de los mismos para optimizar la interacción con el agente.
+
+Cuando seleccionas esta acción, esta se ve así:
+
+https://lh3.googleusercontent.com/51eIuTf6c0NEZ0CsV_ypnfJ75v2s4jVqJK7LpRX2dy5_Hy_lPRMqGQp5vEPNr20wpCUcpWIC1jPdelEOfcRM96PyL1wU3wkU4873QRLcbi7MMxSkX6hvQZC1s2M1ftX3y3l-d_A6Uzp9c87PNOMCLw=s2048
+
+Al dar clic sobre la acción, se abre un formulario como el que ves en la siguiente imagen:
+https://lh4.googleusercontent.com/I7CWAjKi5VZGjdA6db-jFTubV4lrfEFgunHWLHU5ir2ulWcFKfU2kVoxOJC6mhsgR4avPJFQYUWCjttmd7x0iDh1nRPdfffX8khDEyT1J0rs4tfIlyl7S1QNbFP3klsWvSWWP7veLV0J4wLhoij3JA=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot.
+Este nombre es opcional.
+
+Configurar el mensaje a enviar al usuario: Ingresa el texto que se le enviará al usuario cuando llegue a este punto de la conversación.
+Agregar variables al mensaje: En esta parte puedes traer información para personalizar la conversación con el bot que conocemos como variables. Para ello, debes seleccionar del listado la variable que quieres incluir en el texto y dar clic en el botón de [+]
+Definir si quieres guardar la respuesta del usuario: Al activar esta opción, la respuesta que nos de el cliente va quedar almacenada en la base de datos.
+Puedes guardarla como
+Información de contacto: Este campo se refiere a información que se le preguntará al usuario una única vez y quedará almacenada en la base de datos.
+
+Campo dinámico: Es información que puede cambiar en el tiempo y se sobrescribe o actualiza cada vez que se le pregunta al usuario en la conversación.
+
+https://lh5.googleusercontent.com/vZ42HfMSNVAKKTGYDQcP8mdq1kxDeev2hgXlW2pLjmnilYi_7B8HHN9HjPuWxJGux__sAkAdc8YXLSEj3Gft2qAQS-LCOKAa4a95xS54NMD-KAVmyAfOfbGg5BJ0Io-m2hsTtqv6R1b245DRpNtiwA=s2048
+
+Adicional debes seleccionar el campo donde se almacenará la información y si deseas agregarle una validación a la información que te está entregando tu cliente ya sea de: Texto, números y correo.
+
+https://lh3.googleusercontent.com/O6PTzsTe1tb5IDHu8p-pAIQVtp0dZCdU-rVTn0rhkw3cVrr1T8pbYN4CidsayqlLmTrdxqYPAypCzfKFnX75BceuQQgejmS8dgSLgYCIvm86aVmGlAnhl408nLGC7NvJUh-IZwOWL2psO293QZoGdw=s2048
+
+Recurso
+https://youtu.be/Xb2XQHhbhfU
+
+Esta acción te permite configurar aquellas interacciones donde se entrega un recurso, es decir, un video, documento o imagen al usuario en la conversación.
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh3.googleusercontent.com/9YVrjzRaCKnZ_y1t0t9fUD6lqdgcnkRQgNo0_tSIov9gOJ2w7u5orNMpTYzmIbs4ri_4l4O_Fgc43O1HO7lUD8qz45Z0WLUl8mm3zKOWkVE94RfvdawavetQUr09a_s-PWSNAJBXtNdHFC5viomkQg=s2048
+Al dar clic sobre la acción, se abre un formulario como el que ves en la siguiente imagen:
+https://lh4.googleusercontent.com/4qj3Ddvu-sKnTl2GlF3lNOKeuCb2GybPy1BUPWRVwJPktizUVYJb7KRuoZGCZtOJKYA5HyOHBudFZz08IseAtzb2pqWin_n8Mu6d3duFo2oj2EEQbsY_1uFAvLogTvhBvjp97fFTsQhhyJIjwN2wKg=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Seleccionar el recurso a compartir: Al dar clic en “Subir archivo” se abre un explorador de archivos para adjuntarlo. Puedes usar imágenes, videos o documentos teniendo en cuenta las restricciones de capacidad que se muestran en el formulario.
+Menú de opciones
+https://youtu.be/pipDx4BLI6o
+
+En ciertas partes de la conversación queremos dar a nuestro usuario opciones para dirigirlo al flujo más adecuado, que vaya acorde a sus intenciones y que resuelva sus necesidades de manera más rápida y efectiva.
+
+En esta interacción podemos presentar a nuestro usuario en la conversación entre 2 hasta máximo 30 opciones. 
+
+También  puedes permitir al usuario volver al menú anterior con la opción "0" (Cero) y recuerda que cada opción significa una nueva interacción.
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh6.googleusercontent.com/r6J27Ivel4ZxlVIHhNQMc21qswdCg_LXoWFhsKdPg7uD9KgzuQ5W_xoIHzV-0sAaRMVSWpvTDDy-zfaxF0uCHH2AYm62A3iQ_w75gWcCPy9U2hbRXpyK6p_EdMVCTXgaaEjnCnnzSpYGg6jqGky5zw=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+https://lh4.googleusercontent.com/QveZrQyvlG3PPNwfSpmNDr-etAw4UfjsjFeO2aLBKZUabEXxyyv4S6ToR7_5fdiLiHuPOrYFiMpMGV0SXKCIKKvEP8491a-8NFfQSB2DoOprUC6zWNmccE8zhdIVU79YwUvXRSt5X0aMfbWsy_xhMg=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Ingresar el mensaje del menú de opciones: Diligencia el texto que se envía al cliente cuando llega a este punto de la conversación y dónde se le sugiere que seleccione una opción de las descritas posteriormente.
+Configurar las opciones: Para ello, se debe primero ingresar el texto que va a describir la opción y en el siguiente campo seleccionar la acción, es decir, definir el camino que seguirá el flujo si va por esta acción.
+Ten en cuenta que los números de las opciones pueden aparecer como emoji, si le das clic en cualquiera de los botones de opción.
+https://lh5.googleusercontent.com/Cra8uT1v9FWgolc7sbC-Lf4m9oRZBptiogSNx7El0Zxl4bqFRsQ18YqiaqPZVaHnsKWp_9tgI3LOFDZn3tRBDPd5RUKWvnpY7znNL60jwANWjjRuFlFEdgrPKofKGB6PKaxzGoVcj70oSLXcG1oT6w=s2048
+
+- Cuando se crea el nodo, este tiene 2 opciones por defecto, si deseas agregar más opciones haz clic en el ícono   dentro de la ventana, ubicado en la parte inferior izquierda.
+
+Respuestas rápidas
+https://youtu.be/WVX4A1h19xM
+
+Importante: Esta acción solo está habilitada para tus canales oficiales de Whatsapp y para tus canales de LiveChat.
+
+Esta acción al igual que la acción de menú de opciones, nos permite mostrarle al cliente opciones para dirigirla al flujo más adecuado según sus necesidades, pero de una manera más interactiva, empleando botones de selección dentro de la conversación, que además le ahorran tiempo y esfuerzo al usuario del bot.
+
+https://lh3.googleusercontent.com/5xlijgPGrf25a9e6lu86Nz6B-D_7y8Yj2CzYH_6rIWSEfrnMEj2eyuA72Ethk0ErCjdC5NLapbKpFLzZRGLYOWYIrYU51lsdjB2AI3y9B6KN5OYFuSj_akiMv6lyVcXTHR-stkHAj61Kj1caxWhTXA=s2048
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh5.googleusercontent.com/JqwKVuU4G9S7kUXO5q1TZnE6kOPsBGoB4YovMv-oO9UFYHVhQZF-_0q1ccuSNemRtlQA9Co9RGZgmtKx7Sk0qvuCXR-GdRcNelrTToDmOlCQXxEPqebJEhrVM9661pvpErHIrWilnxfosYX0NbfP4Q=s2048
+
+Al dar clic sobre la acción, se abre un formulario como el que ves en la siguiente imagen:
+https://lh4.googleusercontent.com/Eu5Z9VApFI8Ox50tRSCtiY_4ZfikBWtvNyTq3UA7d6hK9jew_jIawquBTwFS2fdwaKiZSjf8fYX2wzu1HUNCHHRhXo1I1GX9WylA-lYM63QYH2kAUJINERdew3DnEHWAJbkhH3JCM2FFakC5kILmxg=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Seleccionar un cabezal: Este es opcional y puede ser una texto o una imagen.
+Ingresar el mensaje a enviar al usuario y pie de página (este último es opcional).
+Configurar los botones: Para ello, se debe primero ingresar el texto que va a describir la opción y en el siguiente campo seleccionar la acción, es decir, definir el camino que seguirá el flujo si va por esta acción.
+Se permite configurar hasta 3 botones, debido a las limitaciones de WhatsApp.
+
+En esta acción te presentamos ayudas dinámicas en cada una de los campos, que te permitirán ver de manera gráfica ejemplos de cómo verán tus clientes sus interacciones cuando uses respuestas rápidas.
+https://lh6.googleusercontent.com/b_cMkpVz0ZLVtl6Uz8MhwLvqPncNEbVehsimK0OYvWPRfriW91wtgOq_hx--FzRMpwfiQfnxDcNeD29snm9OomCqwfG3zL-_fd85bnTiSLfDUp2x10gZhKmSvNWhZ9EhQ90ygVQSuEB42n0dNOp9Wg=s2048
+
+Listas
+https://youtu.be/CZARnluShBQ
+
+Importante: Esta acción solo está habilitada para tus canales oficiales de Whatsapp.
+
+Esta acción nos permite mostrarle al cliente opciones para dirigirla al flujo más adecuado según sus necesidades, pero de una manera más interactiva, empleando un botón que dentro de él se pueden configurar hasta 10 opciones de listas para que el cliente seleccione, como se muestra en la imagen.
+https://lh3.googleusercontent.com/cGwVDzdfrJQwUUPHxObP7y-X8pol7O1ePkYCUvOYIWD8-7sf_nBE1ud2pKfb0PXV-p152Fig9wh-rI0lzFDnaYoF3o2aERrfs94YTYoXDL2gQ-LSfJq7zR2Xy6G9C-D-lJ8qofIupu3ZTvItS03Epg=s2048
+https://lh4.googleusercontent.com/RafkwgeWU3iyTxh-PdPYzsXsC8JZgAltjc47nlHXL00gRqgszqSuTBd8vePaNq-iXhiMtokmgi3MEedZnnFCG6FrJ7nrx3Tu8GaCZ0pbG-U8LeqS9aCdEaTxgpwZ0L7_B8mhPD5lVnPut-qZPBCyRg=s2048
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh4.googleusercontent.com/mvU8M1hdm3nSpwCUHarzCCoXs5w02hZ6YNnjrqwzazvkFk7IvsCoA1CuFjNywzmO85FSJeeCNSIS7pIkYTz2aL8PbaUoX36Q8I73h2ITZkNVLeYBIRCQKxDOPwiEAlqn4KGa5cOm2YubSgaHI4yP_Q=s2048
+
+Al dar clic sobre la acción, se abre un formulario como el que ves en la siguiente imagen:
+https://lh5.googleusercontent.com/3NFdQiHUeO43JAVC7LS5DuTlq13EBjY6CRbn4AVuyVg5URb0wEB6dEQaNwyDnVk9U3Gkx-cYLrFv3y-4UKI3VX7LS9Tv1O-0NuzdHD6gWgqi4DHmj4LTHGAODEnUJzIg2-GKUiU7jbCBH9-l5dCL1Q=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Seleccionar un cabezal: Este es opcional y puede ser una texto o una imagen.
+Ingresar el mensaje a enviar al usuario y pie de página (este último es opcional).
+Configurar el nombre del botón.
+Configurar opciones: Para ello, se debe primero ingresar el texto que va a describir la opción y en el siguiente campo seleccionar la acción, es decir, definir el camino que seguirá el flujo si va por esta acción. 
+
+Delegar a un agente 
+https://youtu.be/O2a1sa_IY3I
+Ciertas necesidades de los usuarios no pueden ser resueltas por el chatbot o se hace necesario dirigirlos específicamente a un área de nuestra organización para acelerar sus procesos. Para ello, usamos esta acción de delegar la conversación que está teniendo el en el bot a un asesor humano (agente) para continuar resolviendo su necesidad a través del chat.
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh4.googleusercontent.com/-tbiLXCgh9uHw2MN43xQGkmB9Sx8XjoPQblX_VqjIBsKffh8r-YUgnx0hhpjC6OQWueTW24eV0bx_32RSoWL048FcOayHH7o_vP-TlH4YT5QW48Gl28kwDNLulMSWn2mtz9_bj5cC7yxnjZ_hSEgfQ=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+https://lh4.googleusercontent.com/2YI9IRM1vE4WFF3WKUhn8btlzZquudxaQk3VmnFHNQHw5CnH9O2ZMBlIwSm6TAmhUd203F9gTgUqUtNucijmVFVjbkoSioiwdEhU24rA0BjAupp2w-D2Ca6e4gNTP0o80aTiavuggIc8CIjdmZTo1w=s2048
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Visualizar el canal: Este viene preseleccionado del nodo de inicio.
+Seleccionar campaña: Debes seleccionar la campaña a la cual va a ser redirigido el usuario cuando se encuentre en esta parte del flujo.
+
+Decisión
+https://youtu.be/PDVTQNtH1Jw
+La acción de decisión nos permite hacer una distribución por distintos flujos del bot dependiendo de las condiciones que programen desde la misma acción. Esta acción es capaz de identificar palabras clave y comparar datos para tomar un camino u otro.
+
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh5.googleusercontent.com/KEUyV17zkRTpP3e3ObbTGBUooirYZv03IUFKWukyoczFotgaNJOL4rbJDkndQyo2SSm43It8KSoqA5HMpdH7nlDf4jjUQTp-4BrCph21GSD0L3vGlZhkE_tZ16vP421MJzBRlwQ7rHCCebeqhy66EA=s2048
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+https://lh6.googleusercontent.com/4Tfrgy0Npo8VLghhfob_Wnu4NBkkPK-Y_eTbC4MTk-w9TtMb5NvsLUiFoY0q7Zu57BrXeBfMOrffvjs1aATWHjeszurakoR-MjskuPsHN92UyLZ7sDinvFMq1T_nIcaJWjdlw_elq3a23919LjR63g=s2048
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Programar la condición de la variable, según la respuesta del usuario: Para ello primero debes seleccionar la variable que vas a comparar, según la respuesta del usuario.
+Luego seleccionar la condición, que puede ser: Igual a, diferente a, mayor a, menor a y contiene, siendo esta última condición, la que nos permite comparar si la respuesta del usuario contiene una palabra relacionada.  Una vez tengo la variable a comparar y la condición, se debe definir con lo que se desee comparar, ya sea una variable o un parámetro predefinido. Adicional, puedo crear varias condiciones con los operadores lógicos “y”, “o”.
+Seleccionar las acciones: Selecciona del listado que acción va a seguir si el flujo coincide con las condiciones programadas y también si no coincide.
+
+Tiempo de espera 
+https://youtu.be/8L2_3vBChtI
+
+La acción de tiempo de espera es la herramienta que te permite crear una pausa en el bot, para permitirle al cliente realizar algo. Por ejemplo, si requieres que tu cliente diligencie un formulario, debes configurar una espera antes del siguiente mensaje para que tu cliente tenga el tiempo necesario para completar la información y luego continuar con el flujo conversacional.
+
+
+Cuando seleccionas esta acción, esta se ve así:
+
+https://lh3.googleusercontent.com/jN7OCGzvTP4v3D-NGB6WEgGbFeLWqTlXTZJDXRKQHcHiKedUEK0JmrNCk2sSFf6zznF3jKEbtwX-H8kkWcGZU7XTucSiPnL3z_08ZLAgUhhAQAIiR_Ku8tV_HLrQWI0g6VMwW5eOXzgJm2qx61aPJA=s2048
+
+Para usar esta acción, solo debes seleccionar el nodo y configurar el tiempo en minutos y segundos que desees. 
+
+https://lh6.googleusercontent.com/S-KGscTyuA6hyqBlSCZKS7VyLcBhLi92Ayy4IWxvQqASY1hJ-5fnUPqtqefqGIU9qNsFPq6bCDZHjrFF7IL2TIqCBeZUPXJzFFHSyrojKbnggEmJTI8sLnoUvC3FbHsvxLKotf2DUQE3Z2GNOBYowg=s2048
+
+Recuerda que este tiempo solo puede ser menor al tiempo que tienes configurado en tu tiempo de inactividad máximo de inactividad del bot, si intentas configurar un tiempo mayor, el sistema no te lo permitirá.
+
+Este tiempo máximo de inactividad puedes consultarlo en las opciones de configuración de mensajes - pestaña: inactividad.(Link a Configura tu chatbot). ******
+
+Horario de atención
+https://youtu.be/3o57Fb65aYQ
+
+Esta acción nos permite agregar horarios en easyflow para que el bot tenga dos caminos:
+
+Un camino para cuando se cumple el horario y
+Otro camino para cuando no se cumple el horario.
+Importante a tener en cuenta: Puedes usar la acción de horarios en cualquier parte del flujo, excepto al finalizarlo y no es viable para el bot, tener dos de estas acciones de manera consecutiva.
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh6.googleusercontent.com/G4HtkC5y4g9P9qBGUJi61jlKRaw2DRXRP9WRprroKeTX672kGrVm96WnHJVuCyt-hHz94n0nHss1KGiQDaI86WY0uqiqpJEn6Hpn5wCxIix9HYInW-CVu3SRWlNtHz0btAAHkQYAKWbUkoHSmb2nPA=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+https://lh5.googleusercontent.com/xFchzEWCb0If7vbPfikGkxyy8UTITxqsZQfxJIVILu3HEZleHZsO1elCK9N3MGODvC3hOlz1EaorpGyw4uyzzD9pwqEGgmFc6nLb0Ma48qVR27ptEabZuOudtUtfBhCpx-p6X2UcoziFDx_p3E84rA=s2048
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Definir el rango de horas que va a seguir el flujo cuando cumpla con el horario: Para ello selecciona el país y luego configura los días y franjas horarias.
+Puedes agregar varios rangos por día en la opción “Agregar rango adicional”
+Seleccionar las acciones: Selecciona del listado que acción va a seguir si el flujo cumple y también si no cumple con el horario ya definido.
+
+Integración con API REST
+Durante la creación de tu chatbot, puedes necesitar que éste se conecte con un servicio de terceros a través de lo que conocemos como API para intercambiar información, por ejemplo para extraer datos o almacenarlos en alguna base de datos. Para ello, puedes contar el nodo de integración con Api, que permite a realizar peticiones al API a través del uso de los siguientes métodos HTTP:
+
+GET
+POST
+PUT
+PATCH
+DELETE
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh5.googleusercontent.com/MmfdmsT3QodybEj2Hp_jsx7MNn2_N8dpjcxIj5Tt7Jf9SRvQRFh9VU6oWgYuMMAQwE9AHoXwppgOC1bq3YDF94o9Rjge_QcRC58pH4YsjlE1ZN8207hlGH4ueIBd8rRI3pFP2gpCB2O9ZT7EwF-Vdw=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+https://lh5.googleusercontent.com/YBCH7Y1D3EMmUo-vUqwllO6ODeGcZnNm-j8N4jAhvpWir87QGy6gauf7Ys7Tp0Az4n8g2pQGe0WpuBjUvVUvHwIK8A-oWpf6g_wBa26bYYHd6eOxdTaSycJNYyJnVKXwdPQljEyopJP0D3O8dl8NZQ=s2048
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Seleccionar el método e ingresa la URL:
+Ten en cuenta:
+-La URL que ingreses debe ser HTTP:// o HTTPS:// de lo contrario no se le permitirá guardar los cambios.
+-Puedes añadir también variables a la URL con la opción “Agregar variables” y verás estás asociadas a la URL entre los símbolos “<Variable>”.
+Personalizar valores en los parámetros, encabezado y cuerpo de la URL.
+Por defecto esta personalización está desactivada, en el caso de que se desee personalizar alguna de estas opciones dentro de la URL, se debe activar el suiche y configurar la llave y el valor que va a tener el parámetro, encabezado o cuerpo. Estos valores pueden ser elegidos en la opción de “agregar variables” según las variables guardadas o campos dinámicos disponibles o simplemente se puede diligenciar el valor que se desee otorgar a la llave.
+https://lh5.googleusercontent.com/Vq72ZF2WwqcQl7JwCkFfk8BkjQpNzLfxhD6XstHlHx_EfDojyevystFjrdDopu7k2VmRSCicqPcW4gSEbEXqiA80a9NZaBx58fEaT7whTpVvXQS95N4G7HC1hNoQDNVko2PeM78K0waDs_JS-ip8BA=s2048
+
+4. Probar la comunicación de tu Api:
+Con la información anterior diligenciada y usando el botón verde, puedes probar si una solicitud puede funcionar correctamente.
+
+Hacer clic en “Prueba de comunicación”
+Establecer manualmente los valores de las variables de prueba. En caso de tener personalizaciones en parámetros, encabezado y cuerpo con variables, será necesario diligenciar un valor para poder efectuar la prueba.
+https://lh5.googleusercontent.com/YrDgzH4TeI_k20fKMXB8iPitgqZMNc-E9XJsWw3pZ1v0cv6iWEUDYL4iS3rFLef-xifSWeC2G1thU8GLe9Pa5L7Av5Qhtw67FBd5XlVc9_gahNNSjOWdEz0eS49pOEUD0NvzogZF7GK2I8U0szjZcw=s2048
+
+Se realiza la prueba del Api deseada
+Visualizar el cuerpo de la respuesta, debajo del botón de prueba.
+
+En caso de que la prueba sea exitosa, se observa así:
+https://lh5.googleusercontent.com/U-XwyirmBEU8aMKkPhzzPR-0VcXSLiZknOwqQdbZVaElfAEwcf2n_6OuPtqeBemOoM8W53fB7Of7ymZDqZhDfgAm6nVx4PW0YyrRc-Q07OQtEtWB9Sw7D8FxMULFDMPZDcws0q6FdWu2jlD-A3pSZg=s2048
+
+En caso de que la prueba falle, se presenta el siguiente error:
+https://lh6.googleusercontent.com/XpvZbdscIVrN2NjrxCdijoNSLa8Qt3An4M-1l6T5jotvbAr_rLXzbriJ_UnsKhocTENrYHfKrUMPB7wd0lIQ1tgHIPJe-q36xVoD6uFr4uv9o22wRTovAEQ53jmj94kMs4_DIvlRUy2dRnZ0Duvz6Q=s2048
+
+5. Guardar respuestas: En esta sección podemos almacenar algunos de los campos que nos da la respuesta del api para el bot. Para ello:
+Activar el suiche de “Guardar respuesta”
+Seleccionar el campo a almacenar: En esta opción se presentarán los campos primarios disponibles o los los arreglos y anidaciones que se pueden guardar, siendo cada divisor una anidación.
+Definir si se quiere almacenar como campo dinámico o como variable de conversación.y seleccionar según los disponibles.
+https://lh5.googleusercontent.com/MGoQ2FCKC2hspYzArWl_JySWzxIJZxyorKjHQ_3ot2tV-nF6-MP_WwNWNSK8A0vAY5mvoj4ngbX0LvDZuAZL43foy5jbX3b_NgMWXwUTK0l1rxx3OREcyUgjMmstu6-aRm9rVnJ4DfDtqRIfc8QgLg=s2048
+
+6. Enrutar el flujo del chatbot:
+
+Según el código de respuesta del Api, si es 200 o 400, se debe seleccionar la acción que se desea que siga el bot.
+https://lh4.googleusercontent.com/znMdwTu0BtoX_OSGLeohi_liAl4QVWJ6E-oD-oIrdf4nm2AE7LSSg2W5parT00oYqqnrusGd1eeIkQsfDZQB-JSdG8EYjsaotHI8S5U_xA4Y2wjk4xrDfMIQG3qdn9kXeSJgneBw97TCHwqudVorkw=s2048
+
+Variables 
+https://youtu.be/HOru0F9sodI
+Esta acción te puede ayudar principalmente para asignar variables a un menú, y posteriormente identificar la opción por la cual el cliente decidió irse cuando en el flujo se encuentra con un menú de opciones numéricas.
+
+En cualquier parte del bot, se puede usar esta acción para modificar el valor de una variable.
+
+Cuando seleccionas esta acción, esta se ve así:
+https://lh6.googleusercontent.com/Qw5wS_j2XXDmaGNI0kM1ZwfYbkCUfV6_oJfC2z9I31o7AKomOFvgwOVQe2SfqXaqnM-9hXke0-5HYazFDa2hFMcModYNW71Xs9WcWmyRjs5H7tn8j4ty9gCUNKLoKdK6iXFGU5WDuoiXbkWMlBEDrA=s2048
+
+Debes diligenciar los datos siguiendo los siguientes pasos para usar esta acción:
+
+Ingresar el nombre del nodo: Diligencia el nombre que deseas asignar al nodo y el cual será visible en la mesa de diseño del bot. Este nombre es opcional.
+Seleccionar la variable a modificar: En el primer campo selecciona variable que quieres modificar y el valor a actualizar, el cual puede ser:
+- Un valor que ya has definido U
+- Otra variable que se elija de la opción de Agregar variable.
+Estas variables a modificar pueden ser de conversación o de contacto.
+
+Adicional, puedes modificar varias variables en la misma acción, usando el ícono.
+
+Identifica los estados de las acciones
+Para optimizar el diseño de los flujos, las acciones cuentan con una forma gráfica y un color, según ese color podrás verificar su estado. Aquí te explicamos qué significan los colores:
+
+Gris: La acción se encuentra vacía, sin información en su formulario
+https://lh5.googleusercontent.com/d6zxcy9w_R9O_mJY5_FRsvad0F8UxwFvsQYr6JZ_XcYyvKuKLHjxybP_3a_GDFacbSad6N6EKzLeeAyNPk0vCoizxtfVaJqNxWVPksT-1W64EPuyL1pSzbOVSjjp1KdAgVXVFL_xFXdTuB6KBJZtJw=s2048
+
+Rojo: La acción está incompleta.
+https://lh3.googleusercontent.com/eg_meKYfBGiamUNxSefLw2mf_kW7hqdPcqRGoY0OFsA52Bw-F8RBLxwhm5dYYPlRwXSSTHw5lRdqa-FeU5bOAPvZ7wIqOEMLJGCnjTqKEy6XqkqrNaLhFBnQfCKKcNCPAQVE8JFD4SRDyfLt4yqiAg=s2048
+
+Otro color (diferente a gris y rojo): La acción se encuentra completa y lista para ser usada en el flujo.
+Cada acción tiene un color respectivo para indicar que está completa como lo puedes ver la siguiente imagen:
+https://lh4.googleusercontent.com/3S9TfNp-hWNHAd3hLFuYIQ8IRWS8PDdeRhB5mxvUQLhtIhdqx7a_6K8t73knuHeEdcLDuQDU5wBsg7gYZ2us2r3FpYnGDHZG2LCkS4bCldWRBidFe20EXj_f00b34g4jGd3Gz1fjjzqD2Jja_vy1-w=s2048
+
+Realiza y elimina conexiones entre acciones
+Las acciones deben estar conectadas entre sí para lograr formar el flujo conversacional que queremos que tenga el bot. 
+
+Para ello, entonces:
+
+Se inicia con una conexión desde la acción de inicio, seleccionando la siguiente adición y realizando la conexión de manera automática.
+En la imagen vemos que dicha conexión se realiza a través del ícono  y para este caso, se genera un segundo paso en el flujo a una acción de lista.
+https://lh3.googleusercontent.com/o_5Bek7BGl13QeH5Uy-HgnoH3hSEAKDYUiBODePFMieE-IW6CEYHGaHNI7oI3LqEBoNvNVqZPKkBR_bdNM-lxrX0-g73tdN0Y6jsL64Y4DfMcYR-fXxSOC_0I_QC2C8XlHlpTSrcuXXOlCEkIl069w=s2048
+
+2. También cuentas con la opción de agregar conexión, que puedes usar para conectar acciones que ya están previamente conectadas en el flujo o que se encuentran huérfanas, es decir, sin conexión.
+https://lh3.googleusercontent.com/gIjpElq2SgSwd5AWX1rNo2EGdSMCZ80wIV27iU0g4z178G-9L-kXkGnzMwM3jRwoaxuAey-0d1tW9VzOUsGeMyWEPjmdvKZZfYc3aTvtCRbirofQwLCZE_MM2ERD30RgJoggJ2B55LJeLg3kv69yfg=s2048
+
+3. Adicionalmente, por defecto las acciones de: Respuestas rápidas, listas, menú de opciones, decisión, horario de atención e integración de Api Rest, en su configuración permiten hacer conexiones automáticas, al seleccionar acciones que seguirán el flujo. 
+
+Recuerda aquí como usar las acciones (Link a Guía de acciones para tus chatbots )*****
+https://lh6.googleusercontent.com/Wufceg3jdEYVjblO_YpZjOyK8l4ZvWwTctXzbJYX9oc1LlfGBmPSvuV4J1caI_LJB8sUnqbmpbl6RIVOShoVxDDKyPYXg-eooaugHhrr3MsLd3NZPHig-4tLO-wcTeAun3K3UnDJkN963HlY1I-cNA=s2048
+
+Ahora, sí deseas eliminar una conexión es muy sencillo y se logra haciendo clic en el símbolo que está en la esquina superior derecha de la acción, como se muestra en la imagen.
+https://lh4.googleusercontent.com/S1xwKNGC1jIfoulQr67SlDoXs00mH4x1F_cZ51CK7Zn5-_XbMroLreX3zf1OIPSkYwHpy2E8psH1aGNNtX3b8_V3hfVHdmLlr-z72JH03tsWNLviUDvGTxVjTw5B3bjzNvkGtRcsCR_cRaA0wZDoSA=s2048
+
+¿Cómo configurar tu chatbot? Después de haberlo creado.
+Después de realizar la creación de tu chatbot en la mesa de diseño, deberás configurarlo. Aquí te enseñamos cómo hacerlo paso a paso.
+¿Paso a paso cómo configurar tu chatbot en Hibot?
+La barra de configuración puedes encontrar cuando ingresas a tu chatbot en el extremo superior izquierdo, como puedes verlo en la siguiente imagen:
+https://lh3.googleusercontent.com/2cCBkZauJ2muC3WDKwNGdjm25n5HJL7p0-g8GGVnDQuFizrKcEVevqmLQh9nLzrOTEewyDg1hLAFRQnpjYjFnnav-5VHKRi4EpeqBRw6gk4BmAbOFaidGxKlsbfX6vY_oFS3DWdhq7PbfUtI1LxgqQ=s2048
+
+En esta opción puedes realizar las siguientes acciones:
+
+Editar la información del chatbot
+En esta opción puedes editar: Nombre, Descripción y Tipo de Canal. Luego de hacer los cambios haz clic en "Actualizar".
+https://lh3.googleusercontent.com/qgFgBItVYnaXI2czaFtRLPexXBUXJiltuV_V2x0pye2nFQdeDI7rFpHDNzslA4UYMjUzT-HcLte-Tfllni5QWNA1r1ky8sdGsR8xOtQ3-JidHAuEJEvE9HJYSspDtxTCbeYdqNg-zl1dHUml2m4UzQ=s2048
+
+Configuración de mensajes:
+
+- Menú de opciones: Aquí puedes configurar el mensaje que va a recibir el usuario cuando selecciona una opción que no existe en el menú de opciones (Link a Guía de acciones para tus chatbots - menú de opciones)*******
+https://lh5.googleusercontent.com/6OjGkbLIjYEIEQdLHS4_6L5dSBKrRMQKPotvvy7Rk9pkaFAwCX26ine7tr_oJVVlvd9S_zaBMAN8tNwrh8hzKOoP50hDuGLvF7pj-ZX1GHeMsVpNsy2izBOxYQmpNEh7pUax4nfA1beI4zIbmSVe8A=s2048
+
+- Inactividad:Las conversaciones por texto presentan la característica de ser asincrónicas, es decir, el usuario no debe responder inmediatamente las conversaciones, esta sección es para configurar el tiempo de inactividad (El tiempo en que el cliente o usuario no responde).
+https://lh4.googleusercontent.com/fuwjGkQyX1sNrD35Uv_XzQHJaB5eyTAlJ1HLhLqi6C8Wa6IqUt4lwuqwuld4bVYPIuRQqM7D1ECY2fJs1n0dlp7PcT2yTqeDf2cBlUA1TwYnFjDuD4w4gWfp7WvTTwHG3SzqsDR_ibmf_3NRuUmy8A=s2048
+
+Para ello debes:
+
+Configurar el tiempo máximo de inactividad para finalizar la conversación e indicar si deseas enviarle un mensaje personalizado que le avisa al usuario el vencimiento de dicha conversación.
+Definir si deseas delegar la conversación a agente: Si habilitas esta opción, cuando se finalice la conversación por inactividad, se trasladará a un agente de la campaña que selecciones.
+- Validación de respuestas:La acción de mensaje y/o captura de datos (Link a Guía de acciones para tus chatbots - mensaje y/o captura de datos) tiene la opción de realizar una validación de la respuesta de los usuarios cuando se solicitan correos, textos y números. Lo anterior, permite que te asegures de que la información que diligencia tu cliente o usuario es acorde a lo que le solicitaste.
+
+Esta opción de validación de respuesta sirve para configurar los mensajes que el chatbot enviará al usuario cuando la respuesta no sea acorde a las características de los campos. 
+
+Esta opción tiene el mensaje por defecto descrito en la siguiente imagen:
+https://lh6.googleusercontent.com/NBERZEBl36WWyv7yCON5RB4hESeXUOX-KMToO2ETDBj_0KelbWgPADg9D9EOvSSNEKbyonJae-Ar9B6VcdkKxQup8DbH_-7FbHdujZR5K59Glh7Wz-ds7h46Ck_THO5_CZ12THYuNmUU-USeoZE3qg=s2048
+
+Reintentos: Aquí puedes configurar:
+
+Configurar el número máximo de reintentos que puede hacer el cliente en una conversación al seleccionar una opción en el menú de opciones. (Link a Guía de acciones para tus chatbots - menú de opciones)*******
+
+Definir si superados los intentos configurados, deseas finalizar la conversación con la personalización de un el mensaje que le aparecerá al cliente o delegar la conversación a un agente de la campaña que selecciones.
+https://lh4.googleusercontent.com/c57s5zJJww9JoHU1Vsy2DTfGLLsvgKzPXlCZDjrTIv4kXdbRrsNqlJQrRUx9dTPsZXyeyHZNikHSJtKx2tq8NG2A7XE4_2KxmN_RIhq7g3rMq-8PZ72IDyfRTTRklxWg91swHXc5MHGUoBMmT0n2TA=s2048
+
+3. Probar chatbot en dispositivo
+
+Esta funcionalidad te permite probar el chatbot de manera controlada antes de liberarlo a tus clientes, y así no afectarlos. Lo anterior funciona con una línea tipo “Prueba” en la cual se implementa tu chatbot y con la cual puedes interactuar.
+
+Pasos para realizar la prueba para chatbots de Whatsapp:
+https://lh6.googleusercontent.com/bb9M4iYYNtwtzCmSygI6GNqnmx0StwjM84tVHm3tDBB7s3g1SIHksb4XIWZU7bVDK8ulb3uprK75NTsr-lrRMTxg-nJIyXQWYESz-OvY_9CK_WMwniq8iNwqlBWNqDqhwYhHscz6W4ktDoLIErXEBA=s2048
+
+-Seleccionar el indicativo del país y escribir el número del celular al cual deseas enviar la prueba.
+
+-Escribir el mensaje que va a entregar el chatbot cuando se va a delegar a un agente. 
+
+- Clic en "Validar y probar".
+
+- Escribir por WhatsApp al número que se ve resaltado en azul.
+
+Cuando te cerciores que el comportamiento del chatbot es el esperado puedes publicarlo para tus clientes (Link a validar y publicar tu bot) *******
+
+4. Campañas auxiliares
+
+Esta opción permite asignar campañas auxiliares para transferir conversaciones de una campaña a otra desde el agente.
+https://lh5.googleusercontent.com/NjgTj0TvoBfOZlzhOwEsG5e69fyVjfbMN-QrQ9EnimrGJAJVo8VwKgiN5JxYo8437S9nLU3h6ZmgDS-p9_1ggLi_WvKtWS03pOHrcqrjZlRCmcy9AfOZ7sK0zp--_r92HLTjENz1Vl60LKLh4lZchw=s2048
+
+Para ello, en esta opción se muestran las campañas asociadas al canal del bot y puedes elegir una o varias a la vez.
+Recuerda que para que puedas activar estas campañas, debes validar y publicar tu chatbot.
+
+5. Borrar chatbot
+
+Esta opción permite eliminar el chatbot y todo lo relacionado con él.
+Para ejecutar esta acción de borrar, es importante tener presente que el bot debe estar primero en estado inactivo.
+https://lh5.googleusercontent.com/pxwQNju50SwTP3-43ORhzCOnn9Kw4deozwxV9BuhQln5Kf-KL8bklMEieP3RNH_u6KIxYu11ufcPa_c0PBUOnywQM_goVPRnzxUmpeCLVDHBlfzQhb2q9GZxYFTc_WyZtGXsCzoT1WyFVGTPbYX0nQ=s2048
+
+Para desactivar el bot, es muy simple, ingresa nuevamente al bot y en el extremo superior derecho, puedes realizarlo.
+https://lh6.googleusercontent.com/FLmRngSqQrb4GqzGkZu6tEUGxBODyCS5z3ItlDXeG222ByvbEAAkQmaWYlGuMnwT5jpTnOAvXMMhaWWWbjOrCoD97vTPqmoLs8g2RLtoR90alzfQ97md-gU0e8Br3RjtKZL-4YORHq_UQoU47EV5dQ=s2048
+
+¿Cómo valida y publica tu chatbot?
+https://lh3.googleusercontent.com/lEC2wx4zPqtsJigwQfc7-Kv7ecN3NQn7EzkJ3bZqyQ38s58tphsyRt7RtmdfciYAoZbhHkCUSvVEbjuMswKO1oa1q7b0CG3MYSr3W1eQd75456qTwn81-iQjjUZB7NQH8pJTVaMbWgf26LTdWFWUxA=s2048
+
+A partir de esta revisión existen dos posibles resultados:
+
+Publicado exitosamente: El chatbot no tiene errores y se activará para los usuarios de la línea que tienes asociada al chatbot.
+
+No es posible publicar el Bot: El Chatbot tiene errores en la configuración, estos se muestran en el diseñador de Chatbots y permitirá la publicación de este.
+https://lh3.googleusercontent.com/haIFOQBBm-AzaDaEPnaKtcImgMrqD02KWY3DL13Vf_jQUgTI20aaOBfJpxW8i1EyZdxZDADdhDePGqDRZi-MBGM9M6WGuu5AqroGZcPFtopwJ2w7YvJ-tIPi2mLsDOVKYcQsxK--iIeu5ZGZN-0TxQ=s2048
+
+Como puedes ver en la imagen, en el modal se te mostrarán los errores relacionados a tu chatbot y debes fijarte en lo que estos te indiquen y en posibles nodos en color rojo, que también son indicativos de errores.
+Debes proceder a corregirlos e intentar nuevamente dando clic en el botón de validar y publicar 
+
+¿Cómo ingresar al módulo de chatbots de Hibot?
+Aquí te mostraremos cómo ingresar al módulo de chatbots de Hibot y conocerás de qué se trata dicho módulo para que inicies la creación de tus bots
+¿Qué es el módulo de chatbots de Hibot?
+El módulo de chatbots es una herramienta para construcción de bots que te permite automatizar conversaciones con tus clientes para incrementar la calidad en la atención y servicio. 
+
+Los principales beneficios de esta herramienta son:
+
+Facilidad de uso.
+Se adapta a tu negocio sin realizar grandes inversiones.
+Velocidad de respuesta y agilidad en la interacción con tus públicos.
+Disminución de costos y optimización del tiempo de tus agentes.
+Estatus y confianza ante tus clientes debido a que es una solución innovadora y atractiva.
+¿Cómo ingresar al módulo de chatbots de Hibot?
+Conoce aquí cómo puedes acceder al módulo de chatbots para disfrutar de todos sus beneficios
+
+Ingresa con tu usuario y contraseña de Hibot desde en tu computador o desde tu celular a la URL app.hibot.us o haz clic aquí: Hibot.
+En la parte izquierda de tu pantalla encontrarás el menú principal de Hibot.  Haz clic en  “Chatbots” y en la pestaña “Mis chatbots” y verás la siguiente pantalla.
+https://lh4.googleusercontent.com/JApMf7oGstZ3cO-9iqe-ftnWZ6yMm8qUdqlQ8afvHdXP5fww9Oo89foxmZJqTigzdgOWOSjSq9iFWUeUVdfiJflCClrmdUtrnjVBUNUbWUMVJHqSO25VKD-zONcAs9j2DyvWZDMN32rmiQk0zlwxAg=s2048
+
+Conoce tus chatbots y sus métricas
+Una vez estés en la pestaña de “Mis Chatbots”, en esta vista principal puedes:
+https://lh3.googleusercontent.com/X0JfoQQajNxl8BWkdzSDTKvyrX5qvuP0rPw81UXNwrs0gOjoVLcm5t4ogLLFgIXgxGoKJ3cf-ZXKua3h43vuBArWPPRYhs5ldKYR2pl_ZnGZ4CsCBoKqH7xmyvMA_8LXnxk2Uo3O84RKV6MQkohMbQ=s2048
+
+Identificar la cantidad de chatbots activos, es decir, los que están liberados y están siendo usados por tus clientes.
+Visualizar métricas generales de los chatbots y su comportamiento, tales como, consumos realizados durante el último mes en curso de conversaciones consumidas, transferidas y la relación entre conversaciones restantes y contratadas por tu plan.
+Tener a disponible el listado de tus bots, con la información básica de estos y su estado actual.
+Aquí puedes ver tus bot que están activos y en diseño y desde la opción de edición puedes ingresar a realizar cambios en el flujo y/o la configuración de tu bot.
+También puedes consultar tus encuestas y sus resultados. Para conocer más de esta funcionalidad da clic aquí  (Link a Crea y usa bots de encuesta de satisfacción)*********
+
+¿Cómo usar los disparadores manuales en el módulo de chatbots de Hibot?
+Aquí te explicamos paso a paso cómo usar los disparadores manuales del módulo de chatbots de Hibot. También conocerás sus beneficios y cuándo usarlos.
+¿Qué son los chatbots con disparadores manuales?
+Esta funcionalidad permite automatizaciones dentro de las conversaciones, es decir, consiste en activar chatbots para que sean usados durante la conversación que tiene el agente con sus clientes.
+
+¿Cuándo usarlos?
+
+Esta funcionalidad será muy útil cuando el agente tenga acciones repetitivas sobre las conversaciones, como tomar datos del contacto, diligenciar formularios, hacer consultas en otros sistemas (CRMs, bases de datos), hacer encuestas, redirigirlos a otro link, etc  y quiera que Hibot a través de chatbots, haga estas acciones de manera automática.
+
+Beneficios:
+
+Automatizar procesos continuos y recurrentes.
+Mayor efectividad en las tareas del agente.
+Agentes con más tiempo para realizar tareas que aporten más valor y no se desgasten en tareas repetitivas.
+Aumentar la capacidad de atención por agente.
+Importante: Esta funcionalidad solo sirve para campañas que tengan asociados canales de Whatsapp y Livechat, dado que los Chatbots actualmente están disponibles para estos tipos de canales. Esta funcionalidad solo estará disponible para la versión web de Hibot.
+https://youtu.be/7IkAG41C1QU
+
+Paso a paso para usar chatbots con disparadores manuales en bandeja de entrada
+Ingresa con tu usuario y contraseña de Hibot desde en tu computador o desde tu celular a la URL app.hibot.us o haz clic aquí: https://app.hibot.us/
+Crea tu chatbot con disparador manual. Para recordar cómo crearlo, ingresar aquí (Link de Crea tu chatbot)
+https://lh4.googleusercontent.com/0jSiD4ouV5Wy7nB7myWh71wUwZ2xdfXvARO2Mbo-_s6P28s2ZbIucIja-N8wJH2mwnw3YWqNxj0ZYc4uVoh2wSDl4J6Dfyq1vfquvuqnbIFwwl2qAg3dx2RrNN-zwyxWlGj5vxJ2QsW6sQL7DJ9_Zx4
+
+3. En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en “Interacción” o directamente en "Bandeja de entrada".
+https://lh3.googleusercontent.com/g35PU37hPB1yJMtqZLVUlZ_3Aib6MPWEgGplXXCmRCUymphTLkt8iAAT1mZ8lU0cTCGokH5tqvGyWLykaOBRLCq9AnNsCi2HJChlmCKbP5KXwN_Hv8Qd0NFK2UfWAJJ4gfpe8lKy9t1o8q6oswiJ-4M
+
+4. Abre la conversación donde quieres usar el chatbot
+
+
+5. Dirígete a la barra de herramientas que está en forma vertical en la parte derecha de la pantalla y haz clic en la opción llamada “Mis Chatbots”.
+
+En esta opción, se despliegan todos los chatbots de activación manual que tienes disponibles para usar en tus conversaciones con tus clientes.
+Para que estén disponibles, los bots deben estar validados y publicados.
+https://lh4.googleusercontent.com/O30eSzqDr3rbRuaZ5IqbEpJY0MBe0ckx6eX8ahqMNdwmJYU5TPIkW6nfMf_1yeQKrFGQzd_fmS3wxixn75nvXLuOKErrp68WL3MyeZUq9F6nlsLweDf3DX5noG9_OUk8KHtgGJO6M-PpwwY3mFHs8nc
+
+6. Elige el chatbot que vas a usar y da clic en el botón de “Activar”.
+https://lh5.googleusercontent.com/o0H2E6uMOPvqjFsN81Z7htE3JGu61ePmGSHUJP-mXeSNKQ-neG6bFf04YCQenk8V24bOSNMh6JfuuONA-tIOi1psWyOLQ03d3YIQlqbCvUOWqSblNVU_XwcfDPTyrdehlMxrn4AX5_83GkeckXWd1Mg
+
+7. En este momento el cliente empieza a interactuar con el chatbot y en la conversación se indica “Se ha activado un Chatbot” con el nombre de éste y además, en la barra de herramientas muestra que se está ejecutando.
+
+A su vez, en la conversación se puede visualizar el intercambio de mensajes entre el cliente y el bot y no está permitido que el agente escriba mensajes, envíe notas de voz y adjuntos ni finalice o transfiera la conversación.
+
+También en este momento, se muestra en la conversación el ícono  que indica que el cliente está interactuando con el bot.
+
+https://lh3.googleusercontent.com/RU8tgqj-yP4sdiRZ50NHp6WQpLxOPBjfzSjtWiUAlksfNiDfV_rdeWGD8A-j826WEyaarcVPzGK69JLXYW4b1GVolcFtDQM0U7S9li3zPQI3Hyu8g4CGEiEqyDs9pF72J89UxR_Mpask0Rt_ni6fvHk
+
+8. Cuando se finalice la conversación con el bot, en la conversación se indica “Se ha finalizado un Chatbot”, el agente que venía con la atención puede nuevamente retomar la conversación con su cliente.
+https://lh3.googleusercontent.com/Xe7MYTNRc2E-htKYA-k9N-Wu7pbvPgbK5lNg7xb53ve7bkXmPhfUrW19reZagFQtPvs1QX4jMHbpPXWLxa8GQ9NoMwN6ynRtnn4TVJ9Bnh4JxUm86yBuleUJi9k6F7hqtKHHVhP6m43N2atx4vMccls
+
+A tener en cuenta:
+
+La interacción con el chatbot, una vez se active, se ejecuta completa el flujo del bot, es decir, no puede ser ni pausado y finalizado por el agente.
+En una conversación solo se puede activar un chatbot a la vez.
+https://lh5.googleusercontent.com/wEfUdQY_00a2Ohjm2hQfMHAcmQrQjJPjlhvzGxksIQ2bRi6wu8B7z3GaTXUhku9G2jauoU722cOG2YacLk9k7aCgM-QWM5zyQ2j-YxQegStyBovs-13AXpcPdKfsbUmFekpPXHquP-4dZXgYZRdWN6w
+
+Si el chatbot por alguna razón presenta fallos al activarse, se muestra el siguiente error. 
+Puedes crear tu listado de chatbots favoritos, marcando la estrella de la izquierda del chatbot que elijas como favorito.
+
+Aclaración:
+
+Para que el funcionamiento de tus disparadores manuales, sea óptimo debes:
+
+Siempre configurar un bot con disparador de inicio de conversación, validado y publicado, para el mismo canal al que vas a crear disparadores manuales.
+Tener presente que si el bot de disparador de inicio de conversación, es desactivado esto afectará el flujo correcto de los bots de disparadores manuales cuando se activen desde tu bandeja de entrada.
+Si esto sucede, debes entonces podrás solucionarlo realizando algunas de las siguientes 2 operaciones:
+
+a. Activar desde el módulo de chatbots  nuevamente el bot de inicio de conversación.
+
+b. Validar y publicar alguno de los bots de disparadores manuales ya configurados.
+Cómo crear chatbots para Facebook Messenger en Hibot
+Aquí te enseñamos paso a paso cómo crear chatbots para Facebook Messenger en Hibot. Además te enseñaremos cómo probar el chat.
+Aprende más sobre cómo crear y modificar tus propios chatbots, diseñando un flujo de manera rápida y fácil.
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-43-08-6128-PM.png
+
+Cómo crear un chatbot para Facebook Messenger en Hibot 
+Haz clic en el botón “Crear” ubicado en la esquina superior derecha.
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-44-17-0438-PM.png
+
+En la ventana emergente que aparecerá, ingresa:
+- Nombre: Ingresa un nombre con el que fácilmente puedas identificar tu chatbot.
+- Descripción: Diligencia un texto breve que referencie la funcionalidad de tu chatbot.
+- Disparador: Debes seleccionar si quieres elegir si el flujo que estás creando será usado para iniciar conversación o para finalizarla.
+a.  Si quieres que tu chatbot se active una vez tu cliente te hable, escoge la opción "Al iniciar conversación"
+b.  Si quieres que se active cuando se finaliza la conversación, elige la opción "Al finalizar la conversación".
+Esta última opción solo está en uso para bots de encuestas (Link a Crea y usa bots de encuesta de satisfacción)
+c. Si quieres crearlo para que tus agentes lo usen desde la bandeja de entrada como apoyo a su gestión, elige la opción “Disparador manual”
+- Tipo de canal: Actualmente está habilitado WhatsApp, Livechat y Facebook Messenger. En este caso elige "Facebook Messenger"
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-44-25-6396-PM.png
+
+Una vez tengas toda esta información, solo debes dar clic en el botón “Crear chatbot”
+Luego de crear el chatbot, se abrirá una nueva ventana donde verás el "Encabezado" y la "Mesa de diseño" que te permitirá usar las diferentes acciones (Link a Guía de acciones para tus chatbots)  que tenemos disponibles para configurar tu flujo.
+
+Pasos a paso cómo probar un chatbots de Facebook Messenger:
+-Finaliza el flujo de tu chatbot
+
+-En la opción de configuración, da clic en la opción “Probar chatbot”
+
+-Te aparecerá una ventana emergente que simula la conversación en Livechat, donde puedes hacer la prueba completa del chatbot.
+https://help.hibotchat.com/hubfs/image-png-Sep-21-2023-06-44-40-5333-PM.png
+
+También puedes usar el ícono de refrescar  para reiniciar la prueba o el ícono de cerrar para finalizar la prueba.
+
+Tenga en cuenta que ninguna información ingresada en durante la prueba será guardada, las conversaciones no serán delegadas a ninguna campaña ni cuentan para las estadísticas internas o para los consumos de su cuenta.
+
+-Cuando te cerciores que el comportamiento del chatbot es el esperado puedes publicarlo para tus clientes (Link a validar y publicar tu bot)
+
+
+
+
+
+
+
+
+
+
+
+

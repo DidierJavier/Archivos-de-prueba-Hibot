@@ -1,0 +1,22 @@
+Integración
+Aquí podrás hacer las integraciones que requieras con Hibot.
+Chat Bots
+¿Cómo habilitar la integración de un chatbot con Hibot?
+
+¿Cómo habilitar la integración de un chatbot con Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo habilitar la integración de un chatbot con Hibot.
+Mejora la experiencia de atención de tus clientes y tus agentes diseñando tus propios bots desde una interfaz fácil de usar, intuitiva y agradable. Aquí te explicamos cómo habilitar la integración de un chatbot con Hibot.
+
+Paso a paso cómo habilitar la integración de un chatbot con Hibot:
+Primero, recuerda que ya debes haber activado tu módulo de bots con un asesor de ventas o de fidelización.
+
+Para este proceso debes tener en cuenta cada uno de los siguientes puntos:
+
+Ingresa a Hibot en tu computador con tu usuario y contraseña
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en “Integración”.
+Se va a desplegar una lista de opciones, haz click en “Api externo”
+Se abrirá una pantalla donde verás varias opciones. En la que dice “Clave secreta del App” damos click al frente donde dice “Generar nueva”
+Click aquí para aprender cómo crear un chatbot en Hibot
+
+Se generará un código y automáticamente quedará habilitada la interfaz. No pierdas oportunidades dejando conversaciones in responder. Los chatbots funcionan 24/7. Tus clientes no quieren límites de horario. Además Te permiten una atención rápida y oportuna. Si quieres saber más, visita el siguiente enlace: https://hibotchat.com/bots/
+https://youtu.be/9CWTUDmpd24

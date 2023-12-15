@@ -1,0 +1,394 @@
+Interacción
+Aquí aprenderás todo lo relacionado con la bandeja donde gestionas todas tus conversaciones.
+Bandeja de entrada
+¿Cómo enviar respuestas rápidas por un canal de Apple Business Chat?
+¿Cómo reanudar una conversación con recordatorio por medio de una plantilla en Hibot?
+Cómo realizar la acción de llamar desde la app de Hibot
+¿Cómo enviar mensajes interactivos en Hibot?
+¿Cómo usar la bandeja de entrada en Hibot?
+Cómo gestionar las etiquetas en la App de Hibot.
+¿Cómo responder mensajes históricos en Hibot?
+¿Cómo iniciar conversaciones en la App HiBot?
+¿Cómo responder mensajes en Hibot?
+¿Cómo reenviar mensajes en Hibot?
+¿Cómo ver mis mensajes borrados en Hibot?
+¿Cómo usar los recordatorios en Hibot?
+¿Cómo ver las etiquetas de tus contactos en Hibot?
+¿Cómo etiquetar mensajes en Hibot?
+¿Cómo crear etiquetas en HiBot?
+¿Cómo etiquetar conversaciones en Hibot?
+Ver menos
+Difusiones
+¿Cómo enviar una difusión en Hibot?
+
+¿Cómo enviar respuestas rápidas por un canal de Apple Business Chat?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo enviar respuestas rápidas por un canal de Apple Business Chat
+Nota: Para enviar las respuestas rápidas en Apple Business Chat, primero debes hacer la configuración, lee aquí también cómo configurar respuestas rápidas en un canal de Apple Business Chat
+
+ 
+
+Paso a paso cómo enviar respuestas rápidas por un canal de Apple Business Chat
+Ingresa a Hibot con usuario y contraseña
+En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en "Interacción".
+Se abrirá una lista desplegable, haz clic en "Bandeja de entrada".
+En el menú lateral derecho de la pantalla haz clic en la opción "Recursos".
+Verás varias opción, haz clic en "Respuestas Rápidas"
+Envía el mensaje previamente configurado
+También puede hacerlo desde la conversación usando los atajos de la siguiente forma: En la barra donde escribes el mensaje escribe un "Slash (/) y luego escribe el nombre que le asignaste en la configuración. Luego presiona la "Barra espaciadora" del teclado.
+En la parte lateral derecha de la pantalla verás el mensaje y al hacer clic en en la flecha que aparece en la parte inferior del mensaje se enviará en esa conversación. 
+https://help.hibotchat.com/hs-fs/hubfs/Apple%20bc%20chat%206.png?width=688&name=Apple%20bc%20chat%206.png
+
+9. Una vez envíes tu mensaje podrás recibir la respuesta por parte del contacto identificando  cuál fue el elemento seleccionado. Adicionalmente, este tipo de mensaje podrás reenviarlo a una conversación activa cuyo canal sea de Apple Business Chat.
+
+¿Cómo reanudar una conversación con recordatorio por medio de una plantilla en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo reanudar una conversación con recordatorio por medio de una plantilla en Hibot
+Paso a paso cómo reanudar una conversación con recordatorio por medio de una plantilla en Hibot
+Ingresa a Hibot con usuario y contraseña.
+En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en “Interacción” o directamente en "Bandeja de entrada"
+Justo en el panel donde se encuentran las conversaciones, en la parte superior hay dos pestañas. Haz clic en la pestaña que dice recordatorios. 
+Ingresa a la conversación y haz clic en la opción "Reanudar conversación" y elige el nombre de la platilla con botones. 
+Edita los parámetros en caso de que los contenga. 
+Haz clic en el botón "Iniciar conversación"
+https://help.hibotchat.com/hs-fs/hubfs/inciiar%20conversaci%C3%B3n%20plantillas%201.png?width=688&name=inciiar%20conversaci%C3%B3n%20plantillas%201.png
+
+Cómo realizar la acción de llamar desde la app de Hibot
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo realizar la acción de llamar desde la app de Hibot
+Ahora desde la app de Hibot podrás ir a la opción "Llamar" desde las aplicaciones que tengas configuradas para hacer llamadas en tu celular. Es importante porque le permite a tus asesores tener el contacto telefónico de un cliente para que en caso de tener que llamar lo pueda hacer desde su dispositivo de forma rápida y fácil. 
+
+Paso a paso cómo realizar la acción de llamar desde la app de Hibot 
+Ingresa a Hibot con usuario y contraseña.
+En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en "Interacción" y luego clic en "Bandeja de entrada"
+Ingresa a alguna de las conversaciones que tienes abiertas en la bandeja de entrada.
+En la esquina superior izquierda de la pantalla ingresa a la información del contacto y busca en esa información el número de celular de la cuenta. 
+https://help.hibotchat.com/hs-fs/hubfs/llamar%20contacto%201.png?width=688&name=llamar%20contacto%201.png
+
+4. En el campo donde está el número de la cuenta verás un ícono de teléfono. Haz clic ahí y se abrirá una ventana con las opciones de aplicaciones para llamar que tengas instaladas en tu teléfono celular. 
+
+Nota: Es importante mencionar que el número que se marcará, será tal cuál está guardado desde la configuración; esto incluye los indicativos por país o región.
+
+Ejemplo de previsualización de las aplicaciones disponibles para realizar las llamadas: 
+https://help.hibotchat.com/hs-fs/hubfs/Llamar%20contacto%203.png?width=688&name=Llamar%20contacto%203.png
+
+5.  Al elegir cualquiera de las opciones que tienes disponible en tu dispositivo para realizar llamadas, ésta se abrirá y podrás realizar la acción de llamar. 
+https://help.hibotchat.com/hs-fs/hubfs/Llamar%20contacto%204.png?width=500&name=Llamar%20contacto%204.png
+
+¿Cómo enviar mensajes interactivos en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo enviar mensajes interactivos en Hibot.
+Los mensajes interactivos permiten al negocio recibir preguntas puntuales determinadas por opciones pre establecidas que el mismo negocio envía en los mensajes interactivos. Existen 2 tipos de mensajes interactivos en Hibot:
+
+El primero es "Mensajes tipo lista" que son aquellos que tienen más de tres opciones de respuesta, cuentan con categorías dentro de dichas opciones de respuesta y descripciones que ayudan a especificar los productos que se están ofreciendo.
+
+El segundo tipo son los "Mensajes de Respuesta Rápida" y son aquellos que cuentan con 1 o 3 opciones de respuestas. 
+
+1. Paso a paso cómo enviar mensajes interactivos tipo lista con más de tres opciones en Hibot
+Una vez hayas configurado los mensajes interactivos en la galería de recursos podrás hacer envíos de dichos mensajes. (Aprende aquí cómo configurar mensajes interactivos en Hibot)
+
+Ingresa a Hibot con usuario y contraseña
+En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en “Bandeja de entrada”.
+Abre una conversación, dirígete a la barra de herramientas que está en forma vertical en la parte derecha de la pantalla, luego haz  click en el icono de recursos y haz click en la sección "Listas" (También lo puedes hacer por medio del nombre del atajo con el que hayas configurado el mensaje) y envíalo. 
+Aquí verás cómo se visualiza el mensaje en la conversación: 
+
+https://help.hibotchat.com/hs-fs/hubfs/Interactivos%205.png?width=688&name=Interactivos%205.png
+
+Aquí verás cómo se visualiza el mensaje en la conversación:
+
+2. Paso a paso cómo enviar mensajes interactivos de Respuestas Rápidas en Hibot
+Una vez hayas configurado los mensajes interactivos en la galería de recursos podrás hacer envíos de dichos mensajes. (Aprende aquí cómo configurar mensajes interactivos en Hibot)
+
+Ingresa a Hibot con usuario y contraseña
+En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en “Bandeja de entrada”.
+Abre una conversación, dirígete a la barra de herramientas que está en forma vertical en la parte derecha de la pantalla, luego haz  click en el icono de recursos y haz click en la sección "Respuesta Rápida".
+Selecciona el mensaje interactivo creado previamente y envíalo.
+https://help.hibotchat.com/hs-fs/hubfs/interactivos%208.png?width=688&name=interactivos%208.png
+
+Aquí verás cómo se visualiza el mensaje en la conversación: 
+
+https://help.hibotchat.com/hs-fs/hubfs/interactivos%209.png?width=688&name=interactivos%209.png
+
+¿Cómo usar la bandeja de entrada en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo usar la bandeja de entrada en Hibot.
+En este módulo de la herramienta podrás ver todas las conversaciones e interactuar con tus clientes y contactos en la plataforma. Allí es dónde se verán reflejados los mensajes que te sean asignados, y tendrás la oportunidad conversar, enviar audios, imágenes, archivos y mucho más.
+
+Paso a paso cómo usar la bandeja de entrada en Hibot
+Ingresa a Hibot con usuario y contraseña
+En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en “Interacción”.
+Se desplegará una lista. Haz click en "Bandeja de entrada". 
+Esta bandeja de entrada tiene varias opciones, para entender mejor la funcionalidad de cada opción te dejaré varias imágenes a continuación con su respectiva descripción. 
+https://help.hibotchat.com/hubfs/image-png-May-19-2022-06-00-52-91-PM.png
+
+Cómo gestionar las etiquetas en la App de Hibot.
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo gestionar las etiquetas en la App de Hibot.
+Hemos mejorado algunos detalles para mejorar tu experiencia, por ello a partir de ahora al asignar etiquetas a los agentes en las conversaciones, se asignan a nivel de contacto para que éstas no desaparezcan una vez se finalice la conversación. Para ello deberás realizar los siguientes pasos:
+
+Paso a paso cómo gestionar las etiquetas en la App de Hibot:
+Abre la App Hibot en tu celular. 
+Vas a ver tus conversaciones. Abre una de las conversaciones activas o un contacto al que desees etiquetar.
+En la barra inferior de la pantalla, encontrarás un botón en forma de círculo con un signo “más” en el centro para añadir recursos. Haz click ahí. 
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%20app%201.png?width=360&name=Etiquetas%20app%201.png
+
+Se desplegarán algunas opciones, entre ellas la de etiquetas. Selecciónala.
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%20app%202.png?width=360&name=Etiquetas%20app%202.png
+
+Se abrirá una pantalla donde verás toda la información del contacto.
+Selecciona el campo dinámico: “Etiquetas”.
+Agrega o asigna las etiquetas que requieras para tu contacto. (Las etiquetas deben haber sido creadas anteriormente).
+
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%20hibot%20contactos.png?width=688&name=Etiquetas%20hibot%20contactos.png
+
+Las etiquetas han sido asignadas exitosamente a tu contacto. Ahora la búsqueda para tu gestión será más fácil. Podrás filtrar y hacer búsquedas por contacto o por etiqueta.
+
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%20app%207.png?width=360&name=Etiquetas%20app%207.png
+
+Nota: Recuerda que cuando un contacto escriba una nueva conversación, podrás ver las etiquetas que tiene guardadas dicho contacto.
+
+ También, podrás acceder al módulo de etiquetas desde el menú de opciones general
+
+Si realizas conversaciones grupales y alguno de los contactos incluidos tiene alguna etiqueta, se podrán generar alertas informándote al respecto. Ten presente que en la app todavía no podrás asignar o desasignar etiquetas desde una conversación grupal.
+
+¿Cómo responder mensajes históricos en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo responder mensajes históricos en Hibot.
+Esta característica te sirve para poder responder mensajes cómo responder mensajes históricos en Hibot. Si tu conversación ya finalizó y es parte de una conversación histórica puedes responder con Hibot nuevamente. Con esta funcionalidad puedes volver a responder un mensaje de una conversación cerrada sin perder el hilo o la secuencia de lo que venías hablando con el cliente. Acá te enseñamos cómo responder mensajes históricos en Hibot.
+
+Paso a paso cómo responder mensajes históricos en Hibot:
+Primero debes tener una licencia de administrador dentro de la plataforma:
+
+Nota: Recuerda que los mensajes históricos son aquellos mensajes que no hacen parte de nuestra conversación actual, es decir que son mensajes que hacen parte de conversaciones cerradas. Dichos mensajes se catalogan históricos, una vez la conversación se ha cerrado y tipificado. 
+
+Ingresa a Hibot con tu usuario y contraseña
+
+En la parte lateral izquierda de la pantalla verás el panel de control con varias íconos. Haz click en el icono de mensaje 💬 “Bandeja de entrada”. Podrás visualizar tus conversaciones. 
+ Ingresa a una conversación y busca un mensaje histórico que desees responder haciendo scroll para llegar a los mensajes antiguos.
+En la esquina superior derecha del mensaje histórico encontrarás un ícono con una flecha pequeña, si haces click ahí, se abrirán las opciones de menú, haz click en “Responder”.
+Podrás responder el mensaje con un texto, una imagen, un vídeo o un documento adjunto. 
+Por último, haz clic en el botón de enviar, y habrás respondido un mensaje histórico. 
+
+¿Cómo iniciar conversaciones en la App HiBot?
+Atiende a tus clientes en cualquier lugar y en cualquier momento, aquí cómo iniciar conversaciones en la App HiBot.
+Paso a paso cómo iniciar conversaciones en la App HiBot
+Si ya decidiste mejorar la atención a tus usuarios y clientes, con Hibot lo puedes hacer desde la palma de tu mano con la App, aquí te contamos cómo iniciar conversaciones en la App HiBot. Es muy fácil:
+
+*En este caso verás cómo iniciar una conversación con una persona que ya tienes guardada como contacto.
+
+Abre la App Hibot en tu celular. 
+En la parte inferior derecha de la pantalla verás un globo verde, toca el globo.
+Se abrirá una nueva pantalla. En la barra de búsqueda que está en la parte superior de la pantalla, digita el nombre del contacto. 
+Selecciona el contacto.
+Verás un ítem que dice “Seleccione una campaña”, toca la flecha para desplegar y selecciona la campaña sobre la cual quieres escribirle a ese contacto. 
+Toca el botón “Iniciar Conversación”
+La App te llevará a la pantalla de chat donde podrás iniciar la conversación. 
+Si cuentas con una licencia de HiBot , inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la Aplicación mobile, lo que te permitirá atender a tus clientes y usuarios desde cualquier lugar del mundo y a cualquier hora, desde la palma de tu mano y en movimiento. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación. 
+https://youtu.be/t4JTC6onR68
+
+¿Cómo responder mensajes en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo responder mensajes en Hibot.
+¡Entre menos clicks mejor! Hemos venido trabajando en brindarte la posibilidad de que cada día la gestión de tus conversaciones sea más fluida, enriquecida, rápida y efectiva. Por eso, ahora puedes responder mensajes fácilmente, tal cómo lo haces en tu chat personal de WhatsApp. Aquí te enseñamos cómo responder mensajes en Hibot.
+
+Paso a paso cómo responder mensajes en Hibot:
+Primero, recuerda que para aprender cómo responder mensajes en Hibot, debes tener una licencia con cualquier tipo de rol dentro de la plataforma. 
+
+Ingresa a Hibot en tu computador con tu usuario y contraseña.
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en “Interacción”.
+Se va a desplegar una lista de opciones, haz click en “Inbound”.
+Se abrirá una pantalla donde verás tus conversaciones. Ahí, haz click en la conversación en la que deseas responder algún mensaje.
+Busca el mensaje que deseas responder y en la esquina superior derecha del mensaje, vas a ver un ícono que es un pequeño círculo con una flecha. Vas a hacer click ahí y luego click en “Responder”.
+Verás que en la barra donde escribes está el mensaje que quieres responder y la barra lista para escribir tu respuesta. Escribe la respuesta y da click en el botón de “Enviar“.
+Puedes responder mensajes que haya enviado tu cliente, tu agente o asesor. 
+Hasta aquí llegamos con “Cómo responder mensajes en Hibot”. Si cuentas con alguna licencia de HiBot, inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la plataforma. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación y cerrar más ventas. Click aquí para saber cómo reenviar mensajes en Hibot.
+https://youtu.be/wDxoAMi93a4
+
+¿Cómo reenviar mensajes en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo reenviar mensajes en Hibot.
+¡Entre menos clicks mejor! Hemos venido trabajando en brindarte la posibilidad de que cada día la gestión de tus conversaciones sea más fluida, enriquecida, rápida y efectiva. Por eso, ahora puedes reenviar mensajes fácilmente, tal cómo lo haces en tu chat personal de WhatsApp. Aquí te enseñamos cómo reenviar mensajes en Hibot.
+
+Paso a paso cómo reenviar mensajes en Hibot:
+Primero, recuerda que para aprender cómo reenviar mensajes en HiBot, debes tener una licencia con cualquier tipo de rol dentro de la plataforma. 
+
+Ingresa a Hibot en tu computador con tu usuario y contraseña.
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en “Interacción”.
+Se va a desplegar una lista de opciones, haz click en “Inbound”.
+Se abrirá una pantalla donde verás tus conversaciones. Ahí, haz click en la conversación en la que deseas reenviar algún mensaje.
+Busca el mensaje que deseas reenviar y en la esquina superior derecha del mensaje, vas a ver un ícono que es un pequeño círculo con una flecha. Vas a hacer click ahí y luego click en “Reenviar”.
+Verás que el mensaje que quieres reenviar tendrá un “check” de color verde al lado izquierdo. Tendrás la posibilidad de seleccionar varios mensajes que quieras reenviar. 
+En la parte inferior derecha de la conversación verás el botón “Reenviar”, si haces click ahí, se abrirá un cuadro con las conversaciones que tienes activas y a las cuales puedes reenviar mensajes. También puedes buscar la conversación en la barra de búsqueda.
+Hasta aquí llegamos con “Cómo reenviar mensajes en Hibot”. Si cuentas con alguna licencia de HiBot, inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la plataforma. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación y cerrar más ventas. Click aquí para saber cómo responder mensajes en Hibot.
+https://youtu.be/9nHv2-j-zIY
+
+¿Cómo ver mis mensajes borrados en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo ver mis mensajes borrados en Hibot.
+Esta nueva funcionalidad te permite mantener la trazabilidad de los mensajes borrados por los asesores en las conversaciones. Ahora, cuando un asesor borra uno o varios mensajes en una conversación, va a poder identificar cada uno de los mensajes borrados en la pantalla de la conversación. También podrás encontrar en el Reporte Histórico de Mensajes un nuevo estado que identifica y segmenta dichos mensajes. Aquí te mostramos cómo ver mis mensajes borrados en Hibot.
+
+Esta nueva funcionalidad está soportada inicialmente sobre los canales de WhastApp, y no estará inicialmente disponible en las líneas oficiales. Aplica para mensajes de tipo textos, imágenes, videos, audios y mensajes de carrito de compras.
+
+Cuando un asesor elimina uno o varios mensajes desde su WhatsApp, vas a poder identificar que el mensaje fue eliminado de la siguiente manera: 
+https://hibotchat.com/wp-content/uploads/2021/12/Mensaje-eliminado.png
+Nota: Esta característica funciona de igual manera en Web y en la App HiBot.
+
+¿Cómo ver mis mensajes borrados en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo ver mis mensajes borrados en Hibot.
+Esta nueva funcionalidad te permite mantener la trazabilidad de los mensajes borrados por los asesores en las conversaciones. Ahora, cuando un asesor borra uno o varios mensajes en una conversación, va a poder identificar cada uno de los mensajes borrados en la pantalla de la conversación. También podrás encontrar en el Reporte Histórico de Mensajes un nuevo estado que identifica y segmenta dichos mensajes. Aquí te mostramos cómo ver mis mensajes borrados en Hibot.
+
+Esta nueva funcionalidad está soportada inicialmente sobre los canales de WhastApp, y no estará inicialmente disponible en las líneas oficiales. Aplica para mensajes de tipo textos, imágenes, videos, audios y mensajes de carrito de compras.
+
+Cuando un asesor elimina uno o varios mensajes desde su WhatsApp, vas a poder identificar que el mensaje fue eliminado de la siguiente manera: 
+https://hibotchat.com/wp-content/uploads/2021/12/Mensaje-eliminado.png
+Nota: Esta característica funciona de igual manera en Web y en la App HiBot.
+
+¿Cómo usar los recordatorios en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo usar los recordatorios en Hibot.
+Una nueva opción para hacerle seguimiento a tus tareas y compromisos. ¡Que nada se te escape!
+
+El módulo de recordatorios, no solo posibilita configurar recordatorios a tus conversaciones para que nada se te pase por alto, sino que también te permite reanudar fácilmente las conversaciones. De esta forma la comunicación con tus usuarios, será un proceso más sencillo y dinámico. Aprende cómo usar los recordatorios en Hibot:
+
+Paso a paso cómo usar los recordatorios en Hibot:
+Primero, recuerda que para aprender cómo usar los recordatorios en Hibot, debes tener una licencia Premium de Hibot.
+
+Ingresa a Hibot en tu computador con tu usuario y contraseña
+
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en el ícono de mensaje.
+Se van a desplegar dos opciones, haz clic en “Bandeja de entrada”.  
+Se abrirá una pantalla donde verás todas las conversaciones abiertas. En la parte superior de las conversaciones, haz clic en “Recordatorios”, allí verás los recordatorios que ya tengas creados. 
+Cómo crear un recordatorio en Hibot
+Abre una conversación y en la esquina superior derecha, verás un ícono en forma de reloj, haz click ahí.
+Se abrirá un cuadro dónde podrás crear y agregar las especificaciones del recordatorio. Recuerda dos cosas importantes, una es que para crear un recordatorio, es necesario tener en el Inbound conversaciones abiertas o expiradas, y lo segundo es que la configuración de nuestros recordatorios debe tener fechas futuras; en caso de intentar configurar una hora o fecha pasada, el proceso será rechazado. Adicionalmente, cabe anotar que solo puedes configurar un solo recordatorio por contacto.
+ En la conversación podrás ver las notificaciones activas. Verás un ícono de reloj en cada una de ellas.
+Cómo reanudar conversaciones cerradas con recordatorios en Hibot
+Como se mencionó anteriormente, desde la pestaña de recordatorios podremos visualizar las conversaciones que se tengan con un recordatorio activo independientemente de su estado. Por lo anterior, si tengo una conversación cerrada con un recordatorio configurado, podrás reanudar la conversación para continuar la interacción con tu contacto de manera más fácil:
+
+Simplemente ve a la conversación cerrada y haz clic en reanudar y así podrás iniciar nuevamente la conversación con el contacto. 
+Hasta aquí llegamos con “Cómo usar los recordatorios en Hibot”. Si cuentas con alguna licencia de HiBot, inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la plataforma. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación y cerrar más ventas.
+
+¿Cómo ver las etiquetas de tus contactos en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo ver las etiquetas de tus contactos en Hibot
+Hemos evolucionado nuestro módulo de etiquetas y ahora las etiquetas que asignes, no desaparecerán cuando la conversación sea finalizada. Aquí cómo ver las etiquetas de tus contactos en Hibot. Recuerda que podrás asignar etiquetas en las conversaciones y en los mensajes.  Dichas etiquetas quedarán guardadas en el contacto.
+
+Lee aquí también: 
+
+¿Cómo crear etiquetas en Hibot?
+
+¿Cómo etiquetar mensajes en Hibot?
+
+¿Cómo etiquetar conversaciones en Hibot?
+
+Paso a paso cómo ver las etiquetas de tus contactos en Hibot
+Ingresa a Hibot con usuario y contraseña.
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en “Bandeja de entrada”.
+Abre una conversación que tengas activa. 
+Dirígete al menú ubicado en la parte lateral derecha de la pantalla y haz click en el módulo de etiquetas (Es un ícono con forma de etiqueta). Allí verás todas las etiquetas que tiene tu contacto.  
+Al darle clic allí, podrás asignar o desasignar las etiquetas que tengas previamente creadas. Aquí: ¿Cómo crear etiquetas en Hibot?
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%201.png?width=688&name=Etiquetas%201.png
+
+Nota: Una vez ingreses por primera vez a la conversación cuyo contacto deseas etiquetar, se activará una alerta informativa la cuál indicará desde dónde podrás continuar asignando o des-asignando las etiquetas. 
+
+Adicionalmente, tendrás la opción de dirigirte a este mismo artículo desde el botón “Más información” o cerrar dicha alerta, desde el botón “Entendido”. 
+
+6. Al asignar o desasignar etiquetas, podrás visualizar cómo esto se reflejan tanto en la bandeja de entrada donde están las conversaciones, como en la información del contacto y en la sección de etiquetas, ubicada en el menú de información derecho. Desde allí, podrás visualizar dichas etiquetas con su respectivo nombre y color.
+
+Nota: Cuando superes más de cinco etiquetas asignadas, podrás visualizar el número total de etiquetas, en la bandeja de entrada donde están tus conversaciones y en el panel de información del contacto.
+
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%203.png?width=688&name=Etiquetas%203.png
+
+¿Cómo ver y monitorear las etiquetas en los reportes de Hibot?
+Para lograr hacerle seguimiento a tus etiquetas has lo siguiente: 
+
+Dirígete en el menú lateral izquierdo al módulo "Auditoría".
+Busca el filtro llamado "Etiqueta". Desde allí, podrás filtrar la búsqueda de tus conversaciones con etiquetas.
+También en la columna de "Etiquetas" ubicada en el reporte en la parte de abajo de la pantalla, podrás visualizar las etiquetas asignadas a cada conversación.
+
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%204.png?width=688&name=Etiquetas%204.png
+
+¿Cómo se visualizan las etiquetas en las conversaciones grupales?
+Cuando se tiene una conversación grupal, se indicará en la bandeja de entrada y en la información del contacto por medio de una etiqueta de color gris, que uno o varios de los contactos que hacen parte de dicha conversación grupal, tiene una o varias etiquetas asignadas.
+https://help.hibotchat.com/hs-fs/hubfs/Correcci%C3%B3n%20etiquetas.jpg?width=688&name=Correcci%C3%B3n%20etiquetas.jpg
+
+En el reporte del módulo de "Auditoría" también se podrán visualizar las etiquetas en las conversaciones grupales. Para ello, realiza los siguientes pasos:
+
+En el módulo "Auditoría" dirígete al reporte en la parte de abajo de la pantalla, busca tu conversación grupal y en la columna de etiquetas podrás visualizar los nombres de las etiquetas que los contactos de dicha conversación grupal, tienen asignadas.
+Para identificarlas, solo pasa el mouse encima de la etiqueta y sobre ésta, te saldrá el número del contacto al que pertenece.
+Si deseas exportar el reporte, podrás identificar las etiquetas asignadas con el nombre que tiene configurado. 
+https://help.hibotchat.com/hs-fs/hubfs/Etiquetas%206.png?width=688&name=Etiquetas%206.png
+
+¿Cómo etiquetar mensajes en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo etiquetar mensajes en Hibot
+Las etiquetas en Hibot son marcas, señales o distintivos que le damos a un mensaje o a una conversación para destacarlos, diferenciarlos o resaltarlos sobre otros mensajes o conversaciones. Lo anterior, te sirve principalmente para identificar conversaciones importantes o críticas para que la gestión de tus usuarios y clientes sea más fácil, ordenada y rápida. Aquí te enseñamos cómo etiquetar mensajes en HiBot.
+
+Paso a paso cómo etiquetar mensajes en Hibot:
+Primero, recuerda que para aprender cómo etiquetar mensajes en HiBot, debes tener una licencia con cualquier tipo de rol dentro de la plataforma. 
+
+Ingresa a Hibot en tu computador con tu usuario y contraseña.
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en “Interacción”.
+Se va a desplegar una lista de opciones, haz click en “Inbound”.
+Se abrirá una pantalla donde verás tus conversaciones. Ahí, haz click en la conversación en la que deseas etiquetar algún mensaje.
+Busca el mensaje que deseas etiquetar y en la esquina superior derecha del mensaje, vas a ver un icono que es un pequeño círculo con una flecha. Vas a  hacer click ahí y luego click en “Etiquetas”.
+Las etiquetas que verás son las que previamente un administrador creó. Click aquí para aprender cómo crear etiquetas en Hibot. Recuerda que debes tener un rol administrativo.
+Cada etiqueta tiene al frente un cuadro pequeño en el cuál, haciendo click, queda marcado con un “check” de color verde. Si quieres retirar la etiqueta lo puedes hacer dando click nuevamente en el pequeño cuadro para desmarcarlo.
+Por último haz click en “Guardar”.
+ 
+
+Si cuentas cualquier licencia de HiBot, inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la plataforma. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación y cerrar más ventas. Click aquí para saber cómo etiquetar conversaciones en Hibot.
+https://youtu.be/zOEJIul0MA8
+
+¿Cómo crear etiquetas en HiBot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo crear etiquetas en HiBot.
+Las etiquetas en HiBot son marcas, señales o distintivos que le damos a un mensaje o a una conversación para destacarlos, diferenciarlos o resaltarlos sobre otros mensajes o conversaciones. Lo anterior te sirve principalmente para identificar conversaciones importantes o críticas para que la gestión de tus usuarios y clientes sea más fácil, ordenada y rápida. Aquí te enseñamos cómo crear etiquetas en HiBot.
+
+Paso a paso cómo crear etiquetas en HiBot:
+Primero recuerda que para aprender y saber cómo crear etiquetas en HiBot, debes tener una licencia de rol administrativo dentro de la plataforma. 
+https://youtu.be/A_YaJkURyL8
+
+Ingresa a Hibot en tu computador con tu usuario y contraseña.
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en “Administración”.
+Se va a desplegar una lista de opciones, ve hasta el final de la lista y haz click en “Etiquetas”.
+Verás un botón que dice “Nueva Etiqueta”. Haz click ahí.
+Verás un recuadro con unas opciones. Haz click en “Color de la etiqueta” y selecciona el color que le deseas asignar a tu etiqueta nueva.
+Una vez hayas seleccionado el color para tu etiqueta, verás una barra que dice “Nombre de la etiqueta”, haz click ahí y escribe el nombre que le deseas asignar (El nombre debe tener menos de 20 caracteres y como caracteres también cuentan los espacios entre palabras)
+Cuando hayas asignado el nombre, debajo de esa misma barra verás “Estado” y al frente un botón, si das click en ese botón, podrás activar la etiqueta para ser usada.
+Una vez hayas activado la etiqueta, haz click en “Guardar”. 
+Puedes activar y desactivar etiquetas cuando lo requieras.
+Si cuentas con una licencia de HiBot de administrador, inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la plataforma. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación y cerrar más ventas. 
+
+¿Cómo etiquetar conversaciones en Hibot?
+Todos tus chat en un mismo lugar, no pierdas ni una conversación con tus clientes, aquí cómo etiquetar conversaciones en Hibot.
+Las etiquetas en HiBot son marcas, señales o distintivos que le damos a un mensaje o a una conversación para destacarlos, diferenciarlos o resaltarlos sobre otros mensajes o conversaciones. Lo anterior te sirve principalmente para identificar conversaciones importantes o críticas para que la gestión de tus usuarios y clientes sea más fácil, ordenada y rápida. Aquí te enseñamos cómo etiquetar conversaciones en HiBot.
+
+Paso a paso cómo etiquetar conversaciones en Hibot:
+Primero, recuerda que para aprender cómo etiquetar conversaciones en HiBot, debes tener una licencia con cualquier tipo de rol dentro de la plataforma. 
+
+Ingresa a Hibot en tu computador con tu usuario y contraseña.
+En la parte lateral izquierda de la pantalla verás el panel de control con varias opciones. Haz click en “Interacción”.
+Se va a desplegar una lista de opciones, haz click en “Inbound”.
+Se abrirá una pantalla donde verás tus conversaciones. Ahí, haz click en la conversación que deseas etiquetar.
+En la parte superior de la conversación verás un pequeño icono a lado izquierdo, justo debajo de “Transferido por” (En el video a continuación podrás ver más a detalle), haz click ahí y vas a ver la lista de etiquetas previamente creadas por un administrador de plataforma.
+Selecciona las etiquetas que quieras usar simplemente haciendo click en ellas y quedarán asignadas a esa conversación.
+Si cuentas cualquier licencia de HiBot, inicia sesión con tu usuario y contraseña y podrás hacer uso completo de la plataforma. Esto te permitirá mejorar tu servicio al cliente y tener una excelente comunicación con tus posibles clientes y usuarios. Siempre tu empresa estará disponible para no perder ninguna conversación y cerrar más ventas. (Click aquí para saber cómo etiquetar mensajes en Hibot)
+https://youtu.be/GzV9Ss800FU
+
+¿Cómo enviar una difusión en Hibot?
+Todas tus conversaciones en un solo lugar, no pierdas conversaciones con tus clientes, aquí ¿Cómo enviar una difusión en Hibot?
+Paso a paso cómo enviar una difusión en Hibot
+Nota: Para poder configurar tus plantillas desde Hibot, inicialmente debes realizar la configuración de dichas plantillas en facebook siguiendo los parámetros que estos establecen y especificando que es de tipo multimedia. Adicionalmente, debes especificar que tipo de recurso multimedia es el que enviarás (Vídeo, imagen o documento).(Lee también cómo cargar plantillas de WhatsApp en Hibot y cómo enviar plantillas con botones interactivos en Hibot). Una vez facebook haya aprobado tu plantilla, puedes dirigirte a nuestra plataforma y ejecutar los siguientes pasos: 
+
+Ingresa a Hibot con usuario y contraseña
+En la parte lateral izquierda de la pantalla, verás el menú con varias opciones. Haz clic en "Administración".
+Se abrirá una lista desplegable, haz clic en "Canales".
+Busca en los filtros el canal que tengas asociado al proveedor de Aldeamo o Whatsapp Cloud y haz clic en la opción “Editar canal”.
+https://help.hibotchat.com/hs-fs/hubfs/Multimedia%20en%20plantillas.png?width=688&name=Multimedia%20en%20plantillas.png
+
+5. Una vez des clic en la opción de editar canal, haz clic en la pestaña “Plantillas HSM”
+https://help.hibotchat.com/hs-fs/hubfs/Multimedia%20en%20plantillas%201.png?width=688&name=Multimedia%20en%20plantillas%201.png
+
+6. Al dar clic en "Nueva plantilla" o "Editar plantilla", se abrirá la ventana para realizar la configuración en Hibot de la plantilla que previamente aprobó Facebook.
+https://help.hibotchat.com/hs-fs/hubfs/Multimedia%20en%20plantillas%203.png?width=652&name=Multimedia%20en%20plantillas%203.png
+
+7. Al elegir que tu plantilla sea multimedia, configura los campos de nombre, lenguaje, parámetros y elige el tipo de recurso que importarás.
+
+8. También, podrás importar un archivo por defecto a tu plantilla pero dicho recurso podrás reemplazarlo cuando vayas a iniciar una conversación desde el módulo de contactos.
+https://help.hibotchat.com/hs-fs/hubfs/Multimedia%20en%20plantillas%204.png?width=643&name=Multimedia%20en%20plantillas%204.png
+A continuación, debe ir al menú principal de la izquierda
+https://help.hibotchat.com/hubfs/image-png-Feb-03-2023-07-08-35-9519-PM.png
+Seleccione su proveedor Aldeamo o Cloud API
+https://help.hibotchat.com/hubfs/image-png-Feb-03-2023-07-08-49-7855-PM.png
+
+Al exportar la Plantilla compruebe si su plantilla tiene una o más variables y reemplace
+
+las columnas con el nombre exacto que le diste a ese parámetro.
+https://help.hibotchat.com/hubfs/image-png-Feb-03-2023-07-09-23-1489-PM.png
